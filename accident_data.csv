@@ -1,0 +1,1001 @@
+Accident_ID,Date_Time,Location,Road_Condition,Weather,Time_of_Day,Severity,Vehicle_Count,Casualties,Speed_Limit,Cause
+ACC00001,2024-10-02 12:55:49.670261,"Lake Joshuabury, DC",Dry,Snow,Afternoon,Minor,4,4,60,Drunk Driving
+ACC00002,2024-11-06 23:35:54.676973,"New Roberttown, CO",Dry,Fog,Evening,Minor,3,4,50,Drunk Driving
+ACC00003,2024-05-01 20:23:47.850452,"New Jamesside, MT",Snowy,Snow,Night,Minor,5,6,50,Distracted Driving
+ACC00004,2024-05-02 12:11:53.513414,"Lisatown, WV",Snowy,Rain,Evening,Severe,2,2,30,Road Condition
+ACC00005,2024-12-02 07:29:12.393806,"Petersonberg, IL",Wet,Clear,Morning,Severe,3,2,40,Road Condition
+ACC00006,2025-01-26 14:34:07.215378,"Curtisfurt, CT",Icy,Fog,Evening,Minor,5,3,60,Speeding
+ACC00007,2024-06-22 02:35:44.539397,"Cassandraton, VA",Snowy,Fog,Morning,Fatal,3,4,60,Road Condition
+ACC00008,2024-07-28 19:04:36.639636,"South Christianport, MP",Snowy,Rain,Morning,Minor,2,3,40,Speeding
+ACC00009,2024-09-28 14:22:27.191739,"Barbaraland, AZ",Dry,Snow,Night,Moderate,4,5,60,Road Condition
+ACC00010,2024-10-10 12:20:38.970525,"Traciebury, VI",Dry,Clear,Night,Moderate,2,3,30,Weather
+ACC00011,2024-03-19 21:13:22.443506,"Shawnstad, GA",Icy,Rain,Afternoon,Minor,4,4,50,Distracted Driving
+ACC00012,2024-06-26 04:47:10.051532,"Lake Joseph, TX",Wet,Snow,Morning,Minor,1,1,70,Drunk Driving
+ACC00013,2024-10-05 16:23:28.570885,"New Jessica, GA",Dry,Fog,Night,Severe,5,3,60,Drunk Driving
+ACC00014,2024-07-29 19:55:50.468690,"Veronicaside, IN",Dry,Fog,Night,Fatal,1,0,60,Weather
+ACC00015,2024-10-19 01:01:58.180325,"East Lydiamouth, MO",Snowy,Clear,Evening,Moderate,3,2,50,Distracted Driving
+ACC00016,2024-05-19 18:49:15.139574,"New Nancy, MD",Dry,Fog,Morning,Moderate,2,3,50,Distracted Driving
+ACC00017,2024-04-29 15:42:06.717309,"Fostermouth, FL",Icy,Snow,Morning,Minor,4,3,30,Weather
+ACC00018,2024-05-18 17:44:40.485815,"Lake Anna, KS",Dry,Clear,Evening,Minor,3,3,30,Speeding
+ACC00019,2024-11-10 20:00:44.642664,"Hurstfurt, MN",Icy,Fog,Evening,Severe,4,0,50,Weather
+ACC00020,2024-05-02 02:22:54.296046,"New Trevor, WV",Dry,Rain,Evening,Minor,3,4,30,Distracted Driving
+ACC00021,2024-02-29 04:52:46.020555,"East Courtneychester, PA",Icy,Fog,Afternoon,Minor,3,4,50,Drunk Driving
+ACC00022,2024-03-06 04:44:14.051723,"Carlsonmouth, NC",Wet,Snow,Night,Severe,1,2,70,Weather
+ACC00023,2024-05-13 19:42:16.010938,"Lake Jenniferside, WV",Snowy,Snow,Evening,Minor,2,3,30,Distracted Driving
+ACC00024,2024-05-19 10:47:39.077482,"Danielchester, GA",Snowy,Fog,Afternoon,Minor,1,1,60,Speeding
+ACC00025,2024-07-26 17:06:06.217572,"Teresaburgh, NY",Dry,Fog,Night,Minor,2,1,70,Road Condition
+ACC00026,2025-01-10 07:44:42.792455,"Meaganhaven, PA",Icy,Snow,Evening,Minor,1,1,30,Road Condition
+ACC00027,2024-04-24 15:28:32.125859,"Kathrynside, WI",Dry,Fog,Morning,Severe,5,1,30,Weather
+ACC00028,2025-01-13 21:42:15.759474,"New Mariotown, DE",Wet,Snow,Morning,Minor,4,3,70,Weather
+ACC00029,2025-01-16 08:07:26.751428,"Johnbury, FM",Snowy,Fog,Night,Minor,4,3,70,Weather
+ACC00030,2024-09-06 05:11:00.289758,"North Jessicaland, WV",Icy,Fog,Afternoon,Minor,5,6,50,Distracted Driving
+ACC00031,2024-08-24 13:26:34.957414,"East Donna, OH",Wet,Clear,Evening,Minor,3,0,70,Drunk Driving
+ACC00032,2024-04-12 07:19:54.850829,"Brandtside, WV",Wet,Clear,Afternoon,Moderate,4,1,60,Speeding
+ACC00033,2024-11-04 14:16:09.045470,"Lake Larry, TN",Icy,Rain,Afternoon,Moderate,4,1,70,Weather
+ACC00034,2024-10-06 08:32:37.297121,"Lammouth, DE",Icy,Rain,Night,Moderate,2,3,40,Weather
+ACC00035,2024-05-12 12:56:59.003376,"West Andrewside, IN",Wet,Clear,Morning,Moderate,5,6,50,Drunk Driving
+ACC00036,2024-09-13 21:59:36.342257,"North Jeanton, IN",Dry,Snow,Night,Moderate,2,1,40,Speeding
+ACC00037,2024-03-07 14:41:01.360490,"Port Markhaven, IA",Icy,Fog,Morning,Moderate,4,1,50,Speeding
+ACC00038,2024-05-23 16:56:00.500932,"Lewisberg, VA",Wet,Clear,Evening,Minor,2,1,50,Drunk Driving
+ACC00039,2025-01-18 16:21:42.914245,"Sanchezfort, AS",Icy,Rain,Evening,Minor,4,5,30,Weather
+ACC00040,2024-07-09 16:03:30.740782,"North Donnastad, NE",Snowy,Clear,Night,Moderate,4,0,60,Drunk Driving
+ACC00041,2024-07-11 03:29:32.994301,"Lake Deniseville, AR",Dry,Snow,Afternoon,Severe,5,4,50,Weather
+ACC00042,2024-07-08 01:09:00.507283,"Laurenville, IA",Icy,Fog,Morning,Minor,2,2,60,Drunk Driving
+ACC00043,2024-04-21 23:18:04.326795,"Taylorburgh, KY",Icy,Fog,Evening,Severe,5,1,50,Weather
+ACC00044,2024-07-29 23:09:18.820719,"South Lindseyside, CT",Snowy,Fog,Night,Minor,1,0,30,Distracted Driving
+ACC00045,2024-03-01 11:18:49.559498,"North Sarabury, GA",Wet,Clear,Night,Fatal,1,0,30,Drunk Driving
+ACC00046,2024-07-09 10:23:48.133495,"Lewisfurt, MH",Icy,Snow,Night,Minor,5,0,50,Speeding
+ACC00047,2024-03-04 09:51:08.837177,"Smithfurt, KS",Wet,Rain,Night,Minor,1,2,30,Speeding
+ACC00048,2025-01-15 09:30:13.246541,"Mitchellside, TN",Wet,Clear,Night,Minor,1,0,60,Distracted Driving
+ACC00049,2024-10-31 09:15:47.283741,"East Kenneth, AR",Snowy,Fog,Morning,Fatal,4,2,70,Drunk Driving
+ACC00050,2024-09-10 12:49:26.533692,"Lake Leeton, OR",Snowy,Fog,Afternoon,Minor,3,0,50,Drunk Driving
+ACC00051,2024-08-04 03:16:56.362238,"North Susan, CO",Snowy,Snow,Evening,Minor,3,2,50,Speeding
+ACC00052,2024-12-18 22:31:58.948992,"New Carlosbury, MO",Dry,Rain,Morning,Minor,1,2,60,Distracted Driving
+ACC00053,2024-03-26 18:45:57.226263,"New Brooke, RI",Wet,Rain,Evening,Minor,5,1,60,Speeding
+ACC00054,2024-03-12 22:30:55.683583,"Sarahborough, TN",Dry,Fog,Afternoon,Minor,2,0,60,Drunk Driving
+ACC00055,2024-10-30 13:50:02.582876,"West Randy, TN",Icy,Clear,Afternoon,Minor,4,0,50,Speeding
+ACC00056,2024-10-04 18:10:24.981142,"Stewartland, AL",Wet,Rain,Morning,Minor,4,1,30,Speeding
+ACC00057,2024-07-28 09:05:22.249897,"North Amandahaven, KS",Dry,Snow,Night,Moderate,1,2,40,Distracted Driving
+ACC00058,2024-03-31 08:57:04.022520,"Nicolebury, MN",Wet,Fog,Evening,Minor,5,2,30,Drunk Driving
+ACC00059,2024-05-26 01:59:58.867953,"Bassport, RI",Dry,Clear,Night,Moderate,4,5,60,Weather
+ACC00060,2025-02-05 08:05:26.174332,"Lake Lisaport, TN",Snowy,Snow,Morning,Moderate,3,2,60,Speeding
+ACC00061,2024-03-20 19:52:58.894197,"West Darrell, CT",Snowy,Clear,Night,Severe,1,2,60,Drunk Driving
+ACC00062,2024-11-09 03:42:54.298384,"West Juan, IL",Dry,Snow,Afternoon,Moderate,5,6,30,Road Condition
+ACC00063,2024-10-31 02:17:05.339922,"Lake Cynthia, KS",Snowy,Rain,Morning,Minor,3,0,30,Weather
+ACC00064,2024-08-14 14:09:47.218407,"Rebeccaton, CO",Snowy,Clear,Evening,Severe,5,1,60,Distracted Driving
+ACC00065,2024-09-30 15:51:13.852642,"Bradleymouth, WI",Wet,Snow,Afternoon,Fatal,3,0,50,Road Condition
+ACC00066,2024-03-30 18:36:08.496373,"Evanmouth, OH",Snowy,Fog,Night,Minor,2,1,50,Distracted Driving
+ACC00067,2024-10-26 17:34:48.321199,"North Charlesberg, ND",Snowy,Clear,Evening,Minor,4,4,30,Speeding
+ACC00068,2024-02-25 03:40:57.441357,"Brandiberg, NE",Icy,Fog,Night,Minor,3,0,70,Drunk Driving
+ACC00069,2024-03-29 13:01:31.606369,"Michaelton, MH",Wet,Rain,Evening,Minor,4,4,70,Speeding
+ACC00070,2024-06-21 16:20:18.480489,"Lake Curtis, WI",Icy,Fog,Night,Minor,4,5,60,Drunk Driving
+ACC00071,2024-09-03 11:40:23.404374,"Dicksonberg, IA",Icy,Rain,Afternoon,Moderate,5,6,30,Speeding
+ACC00072,2024-12-23 18:47:40.699710,"South Angel, WA",Snowy,Rain,Afternoon,Severe,5,6,40,Road Condition
+ACC00073,2025-01-14 15:42:08.511292,"Phambury, KY",Icy,Clear,Afternoon,Moderate,3,4,70,Weather
+ACC00074,2024-04-10 03:21:31.302712,"South Monicafort, IN",Wet,Rain,Morning,Severe,4,4,40,Speeding
+ACC00075,2024-04-24 21:16:34.109895,"Baileybury, IN",Icy,Snow,Afternoon,Fatal,3,2,50,Speeding
+ACC00076,2024-02-20 15:18:19.318463,"South Mark, VI",Wet,Snow,Afternoon,Minor,4,1,40,Road Condition
+ACC00077,2024-03-08 08:23:39.427815,"Michaelhaven, MO",Dry,Fog,Afternoon,Minor,2,0,60,Weather
+ACC00078,2024-10-17 04:21:40.868312,"Sheilaville, FM",Snowy,Fog,Morning,Minor,1,0,60,Weather
+ACC00079,2025-01-31 10:10:02.896267,"New Sydney, KS",Icy,Fog,Night,Moderate,4,3,50,Distracted Driving
+ACC00080,2024-02-25 23:13:19.276977,"Reedmouth, NE",Dry,Fog,Evening,Minor,4,3,40,Drunk Driving
+ACC00081,2024-09-20 09:44:59.744645,"South Rachelborough, KS",Icy,Snow,Morning,Moderate,4,5,40,Weather
+ACC00082,2024-02-28 04:57:01.126343,"Smithside, TX",Icy,Snow,Night,Severe,3,1,70,Weather
+ACC00083,2024-10-31 18:13:09.553494,"West Ryan, TN",Icy,Clear,Morning,Minor,4,0,60,Road Condition
+ACC00084,2025-01-13 07:07:29.826167,"Elizabethville, VA",Wet,Rain,Night,Minor,1,0,70,Road Condition
+ACC00085,2025-01-05 17:27:47.362794,"Elizabethmouth, MO",Icy,Fog,Evening,Minor,1,2,70,Road Condition
+ACC00086,2024-10-23 15:25:48.863711,"East Robert, MS",Snowy,Fog,Evening,Severe,1,0,50,Speeding
+ACC00087,2024-10-16 09:04:30.587034,"New Ashley, MO",Snowy,Clear,Morning,Moderate,1,2,30,Road Condition
+ACC00088,2024-08-30 02:57:16.979499,"West Justinchester, WY",Snowy,Rain,Evening,Severe,3,0,40,Drunk Driving
+ACC00089,2024-09-10 19:52:33.624210,"Stevenmouth, TX",Dry,Rain,Night,Minor,5,0,30,Speeding
+ACC00090,2024-04-30 01:07:25.693843,"Leonburgh, TN",Dry,Snow,Evening,Severe,3,1,70,Weather
+ACC00091,2024-03-13 23:09:57.366413,"Clarencebury, TX",Snowy,Snow,Morning,Moderate,4,2,40,Distracted Driving
+ACC00092,2024-06-04 08:55:52.084016,"East Andrew, IA",Snowy,Rain,Afternoon,Moderate,1,0,30,Road Condition
+ACC00093,2025-02-05 08:48:56.311817,"South Robertshire, ID",Snowy,Clear,Night,Severe,1,1,30,Speeding
+ACC00094,2024-10-31 08:42:59.412080,"Snyderbury, FL",Dry,Fog,Afternoon,Moderate,4,3,40,Road Condition
+ACC00095,2024-10-08 14:42:56.457340,"Port Michelleville, WI",Wet,Rain,Night,Severe,2,2,40,Speeding
+ACC00096,2024-07-16 06:35:53.203656,"Port Susan, NC",Wet,Rain,Night,Moderate,1,0,30,Distracted Driving
+ACC00097,2024-07-30 16:00:05.066340,"Port David, DC",Icy,Snow,Afternoon,Moderate,1,0,30,Drunk Driving
+ACC00098,2024-11-30 16:53:39.126567,"Stephaniemouth, RI",Wet,Snow,Morning,Severe,3,0,40,Road Condition
+ACC00099,2024-12-05 16:01:12.190148,"Rivasside, NV",Wet,Clear,Evening,Minor,2,1,50,Road Condition
+ACC00100,2025-01-04 16:34:46.250793,"Colebury, MP",Wet,Fog,Evening,Severe,4,5,50,Weather
+ACC00101,2024-10-01 21:27:20.617726,"Simsview, NV",Snowy,Clear,Afternoon,Fatal,5,0,70,Road Condition
+ACC00102,2024-03-11 07:04:08.742304,"Jimmymouth, MD",Icy,Snow,Afternoon,Minor,1,2,30,Distracted Driving
+ACC00103,2025-01-03 03:55:39.003280,"East Edwardfurt, UT",Wet,Rain,Evening,Minor,2,0,30,Drunk Driving
+ACC00104,2024-04-07 19:19:22.456785,"North Robert, MA",Snowy,Rain,Evening,Minor,4,1,70,Distracted Driving
+ACC00105,2024-08-28 04:16:03.511541,"Brownchester, MS",Icy,Snow,Night,Moderate,4,2,30,Speeding
+ACC00106,2025-01-07 11:27:55.983623,"Port Nicoleshire, MS",Snowy,Fog,Evening,Minor,3,0,70,Distracted Driving
+ACC00107,2024-08-04 04:57:30.497663,"Kennethfurt, PR",Dry,Clear,Afternoon,Minor,5,3,50,Speeding
+ACC00108,2025-01-02 15:47:03.746533,"Medinaside, AS",Snowy,Snow,Afternoon,Minor,2,1,40,Distracted Driving
+ACC00109,2024-09-19 07:50:09.690535,"South Jeffrey, NE",Snowy,Clear,Afternoon,Minor,3,0,60,Weather
+ACC00110,2024-08-07 08:53:23.188813,"Rogersfurt, VA",Snowy,Fog,Evening,Minor,1,2,40,Distracted Driving
+ACC00111,2024-04-12 06:36:40.010780,"Calhounside, AK",Snowy,Snow,Afternoon,Minor,5,2,70,Road Condition
+ACC00112,2025-01-08 05:47:21.687431,"North Dawnberg, VI",Icy,Fog,Evening,Moderate,4,3,50,Distracted Driving
+ACC00113,2024-07-29 15:00:22.910544,"West Nicholasborough, NH",Snowy,Snow,Night,Minor,3,3,30,Drunk Driving
+ACC00114,2024-06-10 08:55:13.777347,"Ramirezchester, KS",Dry,Rain,Afternoon,Minor,3,1,50,Road Condition
+ACC00115,2024-12-12 22:29:50.325400,"Smithside, AR",Snowy,Snow,Afternoon,Minor,3,2,70,Speeding
+ACC00116,2025-02-11 04:49:14.368598,"Jeffreyland, WI",Wet,Snow,Night,Minor,4,3,40,Drunk Driving
+ACC00117,2025-01-26 15:12:16.043415,"Port Anthonybury, ID",Icy,Clear,Night,Minor,1,0,40,Weather
+ACC00118,2024-12-14 12:20:50.145788,"East David, TN",Icy,Snow,Afternoon,Minor,2,3,30,Speeding
+ACC00119,2024-03-24 18:34:44.552058,"South Holly, WI",Snowy,Clear,Afternoon,Fatal,1,2,30,Road Condition
+ACC00120,2024-06-25 17:30:54.627783,"Port Loriport, CT",Dry,Snow,Morning,Moderate,4,0,60,Distracted Driving
+ACC00121,2024-09-10 08:28:48.331025,"Barbarafurt, MO",Wet,Snow,Evening,Severe,1,1,70,Drunk Driving
+ACC00122,2025-01-20 20:34:26.129930,"North Brittany, MP",Icy,Snow,Evening,Severe,2,2,30,Distracted Driving
+ACC00123,2024-09-28 02:07:29.685990,"Lake Kendraville, WY",Icy,Clear,Morning,Moderate,4,1,60,Road Condition
+ACC00124,2025-02-05 08:00:43.465840,"West Amandastad, CA",Wet,Fog,Afternoon,Severe,1,0,60,Weather
+ACC00125,2024-08-14 18:59:58.066191,"Alexanderchester, GU",Snowy,Snow,Morning,Fatal,2,0,70,Speeding
+ACC00126,2024-08-09 00:51:32.791132,"Yumouth, VT",Icy,Snow,Evening,Moderate,4,4,40,Drunk Driving
+ACC00127,2024-04-07 20:57:08.302292,"Lake Aimee, SD",Icy,Rain,Night,Minor,5,2,30,Weather
+ACC00128,2024-05-20 15:20:45.881045,"Marshallshire, KY",Icy,Rain,Night,Moderate,1,0,40,Road Condition
+ACC00129,2024-06-08 17:06:47.636725,"Port Sarah, KY",Wet,Clear,Morning,Moderate,3,2,30,Road Condition
+ACC00130,2024-12-30 00:02:09.522943,"Port Steven, RI",Snowy,Fog,Afternoon,Minor,3,3,30,Drunk Driving
+ACC00131,2024-10-13 01:02:54.160092,"Anthonymouth, HI",Icy,Clear,Morning,Severe,1,2,50,Weather
+ACC00132,2024-08-08 01:36:51.503292,"Laurenmouth, KY",Snowy,Clear,Afternoon,Moderate,1,1,70,Drunk Driving
+ACC00133,2024-12-29 12:32:32.196756,"Angelahaven, ID",Icy,Snow,Afternoon,Minor,4,5,30,Weather
+ACC00134,2024-03-14 06:19:52.638687,"Freemanbury, UT",Icy,Snow,Evening,Severe,3,0,70,Distracted Driving
+ACC00135,2024-08-03 21:11:11.608435,"Westtown, CO",Snowy,Clear,Night,Minor,3,0,70,Distracted Driving
+ACC00136,2024-05-29 11:04:01.561538,"Holtport, TN",Snowy,Rain,Night,Moderate,5,1,30,Distracted Driving
+ACC00137,2024-09-11 09:38:43.075659,"Transtad, NE",Wet,Rain,Evening,Minor,2,1,60,Weather
+ACC00138,2025-02-10 00:06:02.997458,"Michaelmouth, KY",Dry,Rain,Afternoon,Moderate,3,4,50,Road Condition
+ACC00139,2024-06-02 23:39:07.789525,"North Jennifer, MD",Wet,Snow,Evening,Minor,1,0,50,Speeding
+ACC00140,2024-03-26 15:51:24.407334,"East Javier, NJ",Snowy,Fog,Afternoon,Fatal,4,0,70,Drunk Driving
+ACC00141,2024-05-22 23:35:52.732349,"Tinaborough, LA",Dry,Rain,Morning,Minor,5,3,40,Drunk Driving
+ACC00142,2024-05-05 01:55:53.134464,"West Alexis, ND",Dry,Fog,Night,Moderate,3,0,40,Distracted Driving
+ACC00143,2024-03-29 05:27:52.046021,"North Angelaberg, SC",Snowy,Snow,Morning,Severe,1,2,70,Distracted Driving
+ACC00144,2024-12-25 04:35:27.728271,"Garciatown, OK",Dry,Snow,Night,Severe,3,4,30,Distracted Driving
+ACC00145,2024-05-25 20:19:08.080885,"Alexanderburgh, AR",Icy,Snow,Morning,Severe,3,2,70,Speeding
+ACC00146,2024-05-14 05:02:00.914492,"Wilsonland, MO",Icy,Clear,Evening,Minor,3,1,40,Drunk Driving
+ACC00147,2024-08-09 14:24:03.382013,"East Edwardshire, ME",Wet,Fog,Night,Minor,5,5,40,Drunk Driving
+ACC00148,2024-03-14 02:32:38.438500,"North Angela, MT",Icy,Clear,Afternoon,Severe,1,2,70,Distracted Driving
+ACC00149,2024-09-20 10:42:13.052414,"Port Alexandra, NV",Snowy,Snow,Evening,Minor,1,0,30,Speeding
+ACC00150,2025-01-08 19:35:59.799519,"Michellechester, ME",Snowy,Fog,Afternoon,Minor,4,4,40,Road Condition
+ACC00151,2024-09-06 16:20:17.086309,"New Susanville, WV",Snowy,Clear,Afternoon,Minor,3,3,30,Drunk Driving
+ACC00152,2024-04-27 21:17:15.088067,"West Donna, GA",Icy,Rain,Afternoon,Moderate,3,0,30,Speeding
+ACC00153,2024-05-09 14:28:09.087473,"East Aaronmouth, UT",Icy,Fog,Evening,Minor,1,1,50,Distracted Driving
+ACC00154,2024-09-15 21:04:30.118232,"Antonioport, VT",Snowy,Clear,Night,Severe,5,5,50,Weather
+ACC00155,2024-05-25 06:06:36.062654,"Jonesbury, KS",Dry,Clear,Evening,Fatal,5,5,30,Speeding
+ACC00156,2024-11-25 17:46:48.050292,"South Danny, IN",Dry,Fog,Morning,Fatal,3,3,30,Distracted Driving
+ACC00157,2024-10-05 12:52:44.990845,"Margaretland, AR",Snowy,Rain,Afternoon,Minor,1,0,50,Road Condition
+ACC00158,2024-04-12 14:18:28.655822,"Brookeshire, PW",Dry,Rain,Morning,Severe,5,0,40,Distracted Driving
+ACC00159,2024-05-27 09:45:35.141972,"South Haleyfurt, KY",Wet,Fog,Morning,Severe,5,6,70,Speeding
+ACC00160,2024-08-12 18:53:15.368656,"Kimton, FM",Snowy,Fog,Morning,Fatal,3,3,70,Drunk Driving
+ACC00161,2024-07-18 18:55:41.499354,"Cassandratown, CO",Snowy,Clear,Afternoon,Minor,1,2,60,Road Condition
+ACC00162,2024-05-05 14:33:54.350888,"Port Emilyview, OK",Dry,Fog,Night,Minor,5,4,60,Road Condition
+ACC00163,2024-02-26 16:31:47.288263,"South April, NV",Icy,Snow,Afternoon,Fatal,1,2,60,Distracted Driving
+ACC00164,2025-01-11 13:56:34.125389,"New Ryan, GU",Wet,Snow,Morning,Minor,2,0,40,Speeding
+ACC00165,2024-08-09 14:13:08.324130,"South Michaelmouth, MD",Dry,Fog,Afternoon,Minor,2,2,70,Weather
+ACC00166,2024-10-13 18:05:53.244714,"West Robert, NM",Icy,Snow,Night,Fatal,2,2,30,Distracted Driving
+ACC00167,2024-05-27 06:18:59.878723,"Cervantesside, AZ",Snowy,Rain,Morning,Moderate,2,3,60,Drunk Driving
+ACC00168,2024-07-27 02:45:48.123705,"Johnnyville, WI",Icy,Snow,Evening,Minor,2,2,40,Road Condition
+ACC00169,2024-07-08 14:46:12.571558,"Lake Mollymouth, MT",Icy,Snow,Evening,Moderate,3,1,70,Drunk Driving
+ACC00170,2024-03-02 19:00:31.012355,"Cindyfort, SC",Dry,Fog,Afternoon,Fatal,2,1,50,Road Condition
+ACC00171,2024-07-22 10:41:36.740915,"East Josephberg, LA",Dry,Rain,Afternoon,Fatal,1,0,40,Drunk Driving
+ACC00172,2024-07-21 00:17:20.949550,"Martinezbury, VT",Dry,Snow,Evening,Minor,1,2,30,Weather
+ACC00173,2024-04-09 20:10:24.903367,"New Rickybury, MP",Dry,Clear,Afternoon,Minor,5,1,30,Speeding
+ACC00174,2025-01-10 10:23:34.161837,"Valentineberg, NM",Icy,Snow,Morning,Moderate,2,2,40,Road Condition
+ACC00175,2025-01-17 15:16:53.391933,"Williamview, MT",Dry,Rain,Evening,Minor,2,0,30,Road Condition
+ACC00176,2024-12-12 20:51:30.183442,"Sanchezside, FL",Dry,Fog,Afternoon,Minor,5,3,60,Drunk Driving
+ACC00177,2024-07-01 02:17:29.553333,"Port Chad, WI",Wet,Rain,Afternoon,Minor,2,2,40,Speeding
+ACC00178,2024-11-26 12:52:23.523840,"Morganhaven, KY",Wet,Snow,Evening,Moderate,1,0,30,Distracted Driving
+ACC00179,2024-12-07 16:36:30.100256,"Jessicashire, OR",Wet,Fog,Morning,Severe,4,0,70,Distracted Driving
+ACC00180,2025-02-10 20:00:24.219502,"Grimesmouth, ND",Dry,Fog,Morning,Minor,4,2,50,Speeding
+ACC00181,2024-08-06 21:29:20.237730,"Andreaside, MS",Wet,Fog,Night,Minor,4,1,70,Road Condition
+ACC00182,2024-07-27 07:18:36.863477,"Mollybury, OK",Snowy,Snow,Afternoon,Moderate,2,3,30,Distracted Driving
+ACC00183,2024-06-30 20:53:56.975367,"Williamsfort, VT",Wet,Fog,Morning,Severe,3,0,50,Road Condition
+ACC00184,2025-01-10 14:46:41.660320,"Hughesberg, NM",Dry,Snow,Afternoon,Moderate,2,2,40,Road Condition
+ACC00185,2025-01-29 09:17:17.088019,"New Tammy, MA",Icy,Fog,Morning,Moderate,5,5,60,Speeding
+ACC00186,2024-12-25 15:27:10.187889,"Garciamouth, AL",Dry,Rain,Afternoon,Minor,2,1,60,Distracted Driving
+ACC00187,2024-11-01 20:38:16.141476,"Pittsberg, CA",Wet,Snow,Afternoon,Minor,1,1,40,Speeding
+ACC00188,2024-08-01 11:18:37.949757,"Matthewfurt, SD",Dry,Rain,Morning,Minor,3,3,40,Distracted Driving
+ACC00189,2024-03-12 07:53:36.368281,"Melissaside, MS",Dry,Fog,Night,Moderate,5,0,40,Distracted Driving
+ACC00190,2025-01-25 11:37:38.231541,"Brennanton, RI",Snowy,Rain,Afternoon,Moderate,5,3,30,Distracted Driving
+ACC00191,2024-03-07 23:37:42.455731,"Wendyland, NE",Dry,Rain,Afternoon,Severe,4,3,40,Drunk Driving
+ACC00192,2025-02-03 07:44:32.408295,"South Garrettport, MH",Icy,Snow,Night,Minor,5,6,50,Weather
+ACC00193,2024-02-22 13:36:47.707165,"Lauraport, MI",Dry,Fog,Morning,Minor,4,5,30,Road Condition
+ACC00194,2024-06-27 21:38:08.311992,"East Amanda, OK",Wet,Clear,Morning,Moderate,5,3,70,Road Condition
+ACC00195,2024-10-18 00:22:01.323480,"East Gregory, RI",Wet,Rain,Morning,Moderate,3,3,50,Speeding
+ACC00196,2024-12-26 01:26:22.312782,"South Roberta, FL",Snowy,Fog,Evening,Minor,5,1,40,Distracted Driving
+ACC00197,2024-05-06 19:10:36.438873,"Stevetown, MH",Dry,Clear,Evening,Moderate,4,1,40,Weather
+ACC00198,2024-12-01 21:05:20.586972,"Ericaburgh, CA",Dry,Clear,Night,Minor,3,0,60,Distracted Driving
+ACC00199,2024-07-22 07:57:57.164523,"Vanessaport, SC",Snowy,Snow,Night,Moderate,3,3,40,Road Condition
+ACC00200,2025-01-28 08:47:04.475414,"Stephenport, ID",Dry,Clear,Morning,Minor,2,2,40,Distracted Driving
+ACC00201,2025-02-11 00:08:14.771868,"Rodriguezfurt, OK",Snowy,Clear,Afternoon,Minor,2,0,60,Drunk Driving
+ACC00202,2024-06-22 02:25:06.370448,"Victoriaport, AK",Icy,Snow,Night,Minor,2,0,70,Speeding
+ACC00203,2025-02-03 04:17:42.922448,"Hillshire, VI",Icy,Snow,Morning,Minor,1,0,50,Drunk Driving
+ACC00204,2024-10-19 11:25:20.541141,"New Julieport, WI",Dry,Rain,Evening,Minor,1,1,70,Weather
+ACC00205,2024-11-29 18:29:04.892230,"Jefferyborough, RI",Snowy,Snow,Afternoon,Moderate,2,0,40,Road Condition
+ACC00206,2024-05-13 12:48:10.763501,"Lake Colton, SC",Snowy,Snow,Afternoon,Minor,2,3,40,Weather
+ACC00207,2024-10-05 01:32:06.960837,"Kristinaton, OR",Snowy,Clear,Morning,Minor,1,0,70,Weather
+ACC00208,2024-06-24 06:09:16.607314,"North Renee, MD",Icy,Rain,Evening,Moderate,5,0,60,Speeding
+ACC00209,2024-11-11 00:06:23.319912,"East David, ND",Wet,Fog,Night,Moderate,5,6,70,Drunk Driving
+ACC00210,2024-12-28 02:42:42.664674,"Alyssaview, MP",Wet,Clear,Morning,Fatal,5,5,40,Drunk Driving
+ACC00211,2024-04-12 02:13:31.833850,"Coffeyport, WA",Dry,Rain,Evening,Minor,5,6,70,Weather
+ACC00212,2024-12-25 21:33:34.060623,"South Sydneyberg, WV",Snowy,Rain,Evening,Moderate,3,3,70,Drunk Driving
+ACC00213,2025-01-29 23:58:38.953961,"Coffeyside, MN",Wet,Rain,Morning,Minor,2,3,40,Distracted Driving
+ACC00214,2024-03-15 23:26:31.004359,"Smithside, DE",Dry,Clear,Night,Moderate,3,4,50,Drunk Driving
+ACC00215,2024-07-27 02:24:49.613687,"Brendastad, CT",Snowy,Fog,Night,Minor,1,0,30,Drunk Driving
+ACC00216,2024-10-15 11:19:26.021128,"Johnsonside, MD",Wet,Snow,Afternoon,Minor,4,4,40,Speeding
+ACC00217,2025-01-11 06:46:56.084648,"Lake Bryan, GU",Wet,Snow,Morning,Moderate,1,1,30,Speeding
+ACC00218,2024-07-30 13:31:35.077105,"Debraville, DC",Dry,Rain,Afternoon,Minor,4,4,40,Speeding
+ACC00219,2024-02-28 13:22:04.343591,"West Wendyville, CT",Wet,Rain,Morning,Minor,4,1,30,Drunk Driving
+ACC00220,2024-05-07 18:04:09.636227,"South Shawn, TN",Wet,Clear,Morning,Moderate,2,3,40,Drunk Driving
+ACC00221,2025-01-23 17:54:45.272252,"Matthewsberg, FM",Icy,Clear,Evening,Minor,5,6,60,Drunk Driving
+ACC00222,2024-07-12 12:38:48.502808,"Port Tracychester, KY",Wet,Snow,Evening,Moderate,4,0,70,Drunk Driving
+ACC00223,2024-02-23 22:39:06.227185,"Jeffmouth, IA",Dry,Snow,Night,Minor,5,6,70,Distracted Driving
+ACC00224,2024-12-20 10:32:22.911305,"Lake Michaelstad, AR",Dry,Rain,Evening,Minor,2,1,40,Road Condition
+ACC00225,2024-07-06 09:51:54.597219,"North Stacy, GU",Snowy,Rain,Night,Minor,5,3,60,Road Condition
+ACC00226,2024-07-27 01:48:42.954595,"Lake Danielle, AK",Snowy,Rain,Night,Fatal,2,3,60,Weather
+ACC00227,2024-03-01 11:13:39.708261,"Johnberg, WY",Wet,Rain,Morning,Moderate,2,1,30,Drunk Driving
+ACC00228,2024-09-05 04:49:25.137142,"Port Kathyborough, OR",Dry,Rain,Afternoon,Minor,3,1,60,Distracted Driving
+ACC00229,2024-04-30 20:50:46.801341,"West Kim, WY",Wet,Rain,Evening,Minor,1,0,50,Drunk Driving
+ACC00230,2025-01-05 21:42:27.151238,"West Micheleberg, DC",Dry,Clear,Morning,Severe,5,3,70,Weather
+ACC00231,2024-08-27 07:16:03.555350,"North Donna, AK",Snowy,Rain,Morning,Severe,2,0,70,Speeding
+ACC00232,2024-03-31 03:13:26.719232,"Kristybury, OR",Wet,Fog,Afternoon,Moderate,4,2,40,Road Condition
+ACC00233,2024-06-09 05:58:17.549469,"West Brian, WA",Dry,Snow,Night,Severe,4,3,60,Road Condition
+ACC00234,2024-07-14 17:54:28.160824,"Lake Brycemouth, WI",Wet,Fog,Night,Severe,2,2,50,Drunk Driving
+ACC00235,2024-06-23 05:24:55.318470,"South Williamton, VA",Icy,Rain,Afternoon,Minor,4,0,30,Speeding
+ACC00236,2024-11-24 01:26:54.540226,"Stephentown, AR",Snowy,Fog,Morning,Moderate,1,0,40,Road Condition
+ACC00237,2025-02-10 17:14:25.603451,"Simmonsville, NM",Wet,Fog,Evening,Minor,3,2,40,Road Condition
+ACC00238,2024-10-29 04:36:27.220261,"Jonesland, MD",Wet,Clear,Night,Minor,5,3,40,Road Condition
+ACC00239,2024-09-21 04:03:28.207081,"East Joshuashire, OH",Dry,Clear,Evening,Moderate,3,0,70,Speeding
+ACC00240,2024-10-29 02:25:44.788487,"Vanghaven, LA",Snowy,Clear,Evening,Severe,1,1,50,Drunk Driving
+ACC00241,2024-07-26 17:01:44.651559,"Garciaville, PR",Dry,Fog,Evening,Minor,3,3,60,Speeding
+ACC00242,2024-10-08 02:55:30.956337,"South Shannon, IN",Snowy,Rain,Afternoon,Moderate,5,4,30,Drunk Driving
+ACC00243,2024-07-12 03:15:32.618847,"Rossville, MD",Snowy,Snow,Evening,Severe,4,5,70,Drunk Driving
+ACC00244,2024-07-16 20:46:46.079879,"Nicholasberg, TX",Icy,Rain,Morning,Moderate,2,0,40,Speeding
+ACC00245,2025-01-14 02:32:02.104620,"North Marieland, NE",Snowy,Fog,Evening,Moderate,3,1,50,Weather
+ACC00246,2024-03-18 06:19:45.305468,"Lisaside, AR",Icy,Rain,Morning,Minor,3,0,70,Speeding
+ACC00247,2024-09-13 04:40:50.789228,"Elizabethchester, MI",Wet,Clear,Evening,Moderate,2,3,50,Drunk Driving
+ACC00248,2024-12-27 01:42:04.213252,"Parrishton, LA",Dry,Clear,Evening,Fatal,5,1,50,Weather
+ACC00249,2024-09-18 06:55:09.740513,"Dalehaven, IL",Dry,Clear,Evening,Moderate,2,1,50,Speeding
+ACC00250,2024-04-08 12:11:46.310793,"Walkerville, MI",Icy,Clear,Morning,Minor,2,2,70,Distracted Driving
+ACC00251,2024-12-16 18:12:32.792220,"Dannyview, OK",Snowy,Fog,Afternoon,Severe,1,2,70,Road Condition
+ACC00252,2024-05-04 14:19:29.833703,"Bruceside, AK",Dry,Rain,Afternoon,Moderate,4,1,30,Speeding
+ACC00253,2024-09-21 10:10:18.775450,"Anthonyview, UT",Wet,Rain,Night,Fatal,5,1,70,Drunk Driving
+ACC00254,2024-11-16 10:58:02.882814,"Michaelburgh, VI",Wet,Rain,Night,Severe,5,2,70,Speeding
+ACC00255,2024-04-04 07:34:36.462330,"Jonestown, CO",Dry,Clear,Morning,Minor,5,3,30,Weather
+ACC00256,2024-11-10 12:06:18.900109,"South Robert, MA",Icy,Clear,Morning,Minor,1,0,30,Speeding
+ACC00257,2024-04-09 11:40:49.961795,"Jennifershire, PA",Snowy,Fog,Night,Severe,5,0,60,Distracted Driving
+ACC00258,2024-03-14 00:34:53.881901,"East Ericton, TX",Dry,Rain,Afternoon,Moderate,4,1,70,Distracted Driving
+ACC00259,2024-03-12 18:59:33.726801,"Stanleyfort, PA",Snowy,Fog,Afternoon,Moderate,5,0,70,Speeding
+ACC00260,2024-07-22 10:43:18.699956,"Jasonhaven, DE",Wet,Clear,Morning,Minor,3,0,40,Drunk Driving
+ACC00261,2024-06-17 01:34:15.674776,"West Erikashire, NM",Wet,Snow,Evening,Minor,3,3,70,Speeding
+ACC00262,2024-08-22 10:50:47.508670,"Brandonfurt, PA",Dry,Rain,Night,Minor,2,0,30,Speeding
+ACC00263,2024-03-03 00:04:26.802518,"West Sierra, WI",Wet,Clear,Afternoon,Moderate,5,3,60,Speeding
+ACC00264,2024-04-02 02:50:09.519517,"Keithville, AL",Icy,Clear,Afternoon,Minor,1,2,30,Weather
+ACC00265,2024-08-11 15:49:44.505324,"Thompsonfurt, ND",Snowy,Snow,Evening,Minor,5,6,50,Speeding
+ACC00266,2024-10-26 00:04:55.289353,"Charleston, NE",Icy,Snow,Evening,Fatal,1,2,60,Road Condition
+ACC00267,2024-02-18 20:09:08.722268,"Port Lawrencechester, OK",Icy,Clear,Morning,Fatal,1,1,70,Distracted Driving
+ACC00268,2024-07-08 16:56:33.198690,"Robertsfurt, AK",Snowy,Snow,Morning,Minor,1,0,40,Speeding
+ACC00269,2025-01-29 21:20:35.573214,"Port Stacey, NH",Wet,Snow,Afternoon,Moderate,4,0,70,Drunk Driving
+ACC00270,2024-12-11 21:12:29.083963,"Christopherville, IA",Icy,Fog,Night,Fatal,5,2,30,Speeding
+ACC00271,2024-07-20 02:54:16.142055,"Warrenfurt, VI",Dry,Clear,Night,Fatal,3,0,30,Distracted Driving
+ACC00272,2024-06-04 07:39:39.435370,"Jeffreyburgh, CA",Snowy,Rain,Afternoon,Moderate,4,3,60,Weather
+ACC00273,2024-08-16 10:38:33.242709,"New Williamstad, MI",Icy,Rain,Morning,Moderate,5,0,70,Distracted Driving
+ACC00274,2024-11-03 15:53:57.409667,"East Curtis, KS",Wet,Fog,Morning,Minor,3,3,50,Distracted Driving
+ACC00275,2024-04-24 01:06:21.201961,"Port Katherine, CA",Snowy,Fog,Evening,Minor,1,2,70,Drunk Driving
+ACC00276,2024-04-16 16:41:20.624610,"Marshallshire, WV",Snowy,Snow,Evening,Moderate,4,5,60,Distracted Driving
+ACC00277,2024-09-10 15:20:48.527292,"Michellemouth, FL",Wet,Rain,Afternoon,Minor,4,2,40,Speeding
+ACC00278,2024-07-21 14:43:26.097917,"Ramosport, WY",Dry,Snow,Afternoon,Moderate,2,2,50,Road Condition
+ACC00279,2024-05-22 07:35:31.411012,"West Williamport, NH",Snowy,Rain,Afternoon,Minor,5,4,60,Road Condition
+ACC00280,2024-07-26 01:14:13.491542,"West Marieland, SD",Dry,Clear,Night,Severe,3,3,70,Weather
+ACC00281,2024-12-23 15:40:37.158570,"New Brookefurt, NH",Dry,Fog,Morning,Minor,1,2,50,Drunk Driving
+ACC00282,2024-09-10 22:53:48.902711,"South Reginashire, SD",Wet,Snow,Morning,Minor,5,3,40,Weather
+ACC00283,2024-04-20 17:55:50.103971,"Masonton, NV",Icy,Snow,Evening,Moderate,5,6,50,Drunk Driving
+ACC00284,2024-03-20 19:08:28.416526,"Toniland, NY",Wet,Fog,Night,Severe,1,2,60,Distracted Driving
+ACC00285,2024-10-04 23:39:49.037670,"East Jasminemouth, NC",Wet,Snow,Night,Severe,5,4,70,Road Condition
+ACC00286,2024-08-20 22:09:08.743393,"West Nathan, LA",Dry,Clear,Afternoon,Minor,2,1,60,Speeding
+ACC00287,2024-07-02 11:52:09.090899,"Erikaton, WY",Icy,Snow,Morning,Minor,2,0,30,Distracted Driving
+ACC00288,2024-09-29 10:04:08.075610,"Cameronville, OH",Wet,Clear,Morning,Minor,3,4,50,Drunk Driving
+ACC00289,2024-10-16 18:22:44.892972,"Johnathanberg, MA",Icy,Snow,Night,Moderate,3,2,40,Drunk Driving
+ACC00290,2024-03-12 18:17:43.701368,"West Kyle, SD",Icy,Snow,Evening,Moderate,2,2,60,Road Condition
+ACC00291,2024-10-24 02:34:34.787744,"Andersonland, ME",Icy,Rain,Afternoon,Minor,4,0,60,Drunk Driving
+ACC00292,2024-09-03 03:14:43.210437,"Lisahaven, CO",Icy,Clear,Afternoon,Minor,2,1,70,Weather
+ACC00293,2024-10-04 22:46:01.717334,"Romerotown, MN",Dry,Clear,Morning,Minor,4,0,70,Speeding
+ACC00294,2024-06-03 19:18:52.032363,"West Stacey, NM",Wet,Snow,Morning,Moderate,5,5,60,Weather
+ACC00295,2024-04-22 02:56:25.469365,"East Chris, PR",Icy,Fog,Evening,Moderate,5,1,40,Road Condition
+ACC00296,2024-11-25 20:20:27.256823,"Lake Matthewberg, PA",Snowy,Fog,Morning,Minor,1,1,30,Weather
+ACC00297,2024-06-28 14:06:16.509501,"East Marie, WI",Snowy,Rain,Night,Moderate,3,1,50,Weather
+ACC00298,2024-09-27 04:11:37.394419,"Lake Samuel, MT",Wet,Snow,Evening,Moderate,2,0,40,Distracted Driving
+ACC00299,2024-06-24 01:13:47.436679,"South Cheryl, WV",Snowy,Fog,Afternoon,Minor,5,4,50,Road Condition
+ACC00300,2024-11-11 09:21:36.287897,"Youngbury, ME",Dry,Rain,Afternoon,Moderate,3,4,30,Drunk Driving
+ACC00301,2025-01-29 16:03:25.162420,"Mckeeborough, MN",Icy,Rain,Night,Moderate,1,1,40,Speeding
+ACC00302,2024-10-16 17:44:36.405577,"Murrayport, WI",Dry,Snow,Evening,Severe,4,0,70,Distracted Driving
+ACC00303,2024-06-30 11:16:14.591434,"Burchborough, AS",Dry,Fog,Afternoon,Moderate,1,0,30,Speeding
+ACC00304,2024-09-19 20:12:11.784029,"Brettfort, VI",Wet,Clear,Evening,Minor,4,3,60,Road Condition
+ACC00305,2024-06-26 13:49:29.448120,"Lake Meghanville, LA",Icy,Rain,Afternoon,Severe,4,2,60,Weather
+ACC00306,2024-03-13 15:05:52.188324,"West Shannon, NY",Wet,Clear,Evening,Severe,5,3,30,Speeding
+ACC00307,2024-04-05 19:29:29.637082,"Davisbury, GU",Snowy,Snow,Evening,Minor,3,1,70,Distracted Driving
+ACC00308,2024-07-25 18:20:53.889606,"Sarahchester, AR",Icy,Fog,Morning,Minor,2,2,50,Drunk Driving
+ACC00309,2024-07-05 19:05:20.124498,"Joeland, MN",Icy,Rain,Night,Minor,3,4,50,Distracted Driving
+ACC00310,2024-05-04 00:07:17.327132,"Sarahmouth, WY",Icy,Snow,Evening,Severe,5,1,30,Drunk Driving
+ACC00311,2024-04-05 08:06:06.418359,"West Samanthafort, UT",Icy,Fog,Night,Moderate,4,5,70,Drunk Driving
+ACC00312,2024-12-11 13:11:01.191393,"Westtown, MH",Snowy,Clear,Night,Minor,2,3,30,Distracted Driving
+ACC00313,2024-03-11 22:20:33.748387,"Jasonberg, OH",Dry,Rain,Afternoon,Minor,4,4,30,Drunk Driving
+ACC00314,2025-01-20 09:39:49.063713,"Rodriguezport, IA",Snowy,Clear,Afternoon,Minor,1,2,40,Speeding
+ACC00315,2024-05-31 23:41:15.743642,"East Robertmouth, CA",Snowy,Rain,Afternoon,Moderate,1,2,40,Speeding
+ACC00316,2024-03-23 11:37:20.335183,"Carlsontown, SC",Wet,Rain,Afternoon,Minor,5,3,50,Speeding
+ACC00317,2024-08-18 05:31:42.859025,"Lake Douglas, NE",Icy,Fog,Afternoon,Minor,1,2,40,Road Condition
+ACC00318,2024-02-12 13:34:52.336066,"Johnchester, HI",Wet,Snow,Afternoon,Minor,4,0,60,Weather
+ACC00319,2024-10-11 15:35:16.775049,"New Theresaland, NC",Icy,Rain,Evening,Severe,1,0,70,Speeding
+ACC00320,2024-08-28 17:09:37.771811,"South Morganton, SC",Snowy,Clear,Afternoon,Severe,5,5,40,Distracted Driving
+ACC00321,2024-07-02 07:10:38.726770,"Jontown, MI",Wet,Snow,Evening,Minor,2,3,50,Distracted Driving
+ACC00322,2024-11-25 23:50:44.984448,"Johnville, WI",Dry,Fog,Morning,Moderate,5,4,30,Speeding
+ACC00323,2024-09-11 12:41:36.495933,"Dennisstad, ND",Wet,Snow,Evening,Moderate,5,6,50,Distracted Driving
+ACC00324,2024-06-14 15:29:33.449901,"Port Kimberly, NH",Icy,Clear,Night,Minor,5,5,50,Road Condition
+ACC00325,2025-02-04 05:29:39.109674,"Welchberg, CA",Snowy,Snow,Evening,Minor,5,2,60,Road Condition
+ACC00326,2024-10-30 12:32:51.846668,"Johnsonborough, AZ",Dry,Clear,Night,Minor,4,4,50,Drunk Driving
+ACC00327,2024-11-26 22:32:31.589037,"West Sarahhaven, MO",Dry,Clear,Morning,Moderate,4,2,60,Road Condition
+ACC00328,2025-02-07 06:16:50.987965,"Kingborough, LA",Icy,Snow,Evening,Moderate,3,3,40,Speeding
+ACC00329,2024-06-21 09:01:06.831965,"Port Dianaview, DE",Snowy,Fog,Evening,Minor,1,1,50,Distracted Driving
+ACC00330,2024-11-29 22:42:44.453884,"Prestonmouth, MH",Dry,Snow,Afternoon,Severe,1,0,30,Road Condition
+ACC00331,2025-01-26 08:07:53.387980,"Terrifort, UT",Icy,Clear,Morning,Moderate,1,0,50,Road Condition
+ACC00332,2024-08-11 17:02:21.350746,"Lauriechester, CO",Snowy,Fog,Night,Moderate,3,0,40,Drunk Driving
+ACC00333,2024-07-18 06:28:03.215485,"New Kelly, CT",Dry,Fog,Morning,Minor,3,3,60,Drunk Driving
+ACC00334,2024-03-12 05:44:00.488601,"Kirkchester, GA",Dry,Fog,Night,Moderate,2,3,30,Speeding
+ACC00335,2024-10-20 22:10:52.962205,"Sergiostad, RI",Snowy,Fog,Evening,Severe,4,3,70,Weather
+ACC00336,2025-02-10 13:25:01.902166,"Danielleton, CA",Icy,Fog,Morning,Minor,5,1,40,Weather
+ACC00337,2024-10-14 03:18:19.789271,"Coxburgh, AK",Icy,Rain,Evening,Moderate,4,3,50,Weather
+ACC00338,2024-04-04 03:26:20.989337,"Johnsonland, IA",Wet,Fog,Afternoon,Fatal,2,3,70,Weather
+ACC00339,2024-11-22 08:08:51.113698,"Michaelshire, AZ",Icy,Rain,Afternoon,Minor,2,3,60,Drunk Driving
+ACC00340,2024-09-19 23:59:04.769136,"Rushstad, NV",Icy,Rain,Afternoon,Moderate,2,3,40,Road Condition
+ACC00341,2024-11-16 16:53:02.222247,"New Michael, MD",Snowy,Snow,Afternoon,Severe,4,4,50,Weather
+ACC00342,2024-10-06 05:45:43.684198,"North Anthony, HI",Dry,Clear,Afternoon,Severe,1,2,70,Speeding
+ACC00343,2024-08-12 06:22:05.506208,"Mcintyreville, KS",Dry,Clear,Morning,Minor,1,0,30,Weather
+ACC00344,2024-11-21 01:01:16.616179,"Lewisport, UT",Dry,Clear,Evening,Minor,1,0,70,Drunk Driving
+ACC00345,2025-01-11 17:30:09.997981,"Gonzalezberg, PR",Dry,Clear,Afternoon,Severe,4,4,30,Weather
+ACC00346,2024-03-10 00:59:27.650556,"Lake Sean, CO",Dry,Snow,Evening,Minor,4,4,50,Distracted Driving
+ACC00347,2024-12-04 00:37:58.656222,"Elizabethland, OH",Dry,Rain,Morning,Severe,5,5,30,Drunk Driving
+ACC00348,2024-08-28 00:24:45.512956,"Melissaburgh, WY",Dry,Clear,Evening,Minor,3,4,40,Drunk Driving
+ACC00349,2024-06-23 00:37:20.388929,"North Tracie, WY",Dry,Fog,Afternoon,Moderate,2,2,40,Distracted Driving
+ACC00350,2024-04-02 17:13:47.787421,"Johnsonside, OK",Snowy,Rain,Night,Minor,5,6,40,Speeding
+ACC00351,2024-06-25 17:39:19.257174,"New Nicole, CA",Wet,Rain,Evening,Minor,1,1,30,Road Condition
+ACC00352,2024-06-03 23:02:12.520296,"Foxchester, GU",Icy,Clear,Morning,Minor,2,3,70,Distracted Driving
+ACC00353,2024-09-08 23:18:30.572256,"West Dawn, NV",Wet,Fog,Evening,Minor,2,2,40,Drunk Driving
+ACC00354,2024-07-31 03:15:02.300477,"Davidside, SC",Icy,Fog,Afternoon,Severe,5,4,30,Distracted Driving
+ACC00355,2024-09-13 16:15:34.323609,"South Wesley, VI",Snowy,Fog,Night,Minor,1,1,30,Speeding
+ACC00356,2024-03-03 05:36:15.679018,"New Ericburgh, GA",Dry,Fog,Morning,Severe,1,1,50,Speeding
+ACC00357,2024-06-08 20:14:07.141746,"West Stacey, NC",Wet,Fog,Evening,Moderate,1,2,40,Weather
+ACC00358,2025-01-03 20:34:27.896682,"West Jamesside, KY",Dry,Fog,Morning,Minor,5,1,60,Speeding
+ACC00359,2024-03-28 17:04:52.958362,"Christinaland, NY",Snowy,Snow,Evening,Minor,1,1,70,Distracted Driving
+ACC00360,2024-10-03 02:36:38.022593,"East Donna, VA",Wet,Clear,Night,Severe,3,2,40,Weather
+ACC00361,2025-01-06 10:35:31.073962,"Meganshire, AZ",Dry,Fog,Evening,Minor,1,0,40,Distracted Driving
+ACC00362,2024-12-09 09:41:30.025652,"North Brandonshire, KS",Wet,Fog,Morning,Severe,1,1,70,Drunk Driving
+ACC00363,2024-10-06 19:31:03.801199,"Montgomerytown, NM",Dry,Clear,Night,Minor,1,2,50,Drunk Driving
+ACC00364,2025-01-01 16:36:06.892708,"Dawnport, NJ",Dry,Clear,Evening,Minor,1,0,60,Drunk Driving
+ACC00365,2024-05-11 10:24:34.578580,"Evansland, UT",Dry,Rain,Night,Minor,4,0,70,Weather
+ACC00366,2024-03-04 21:03:06.763279,"Perrymouth, IL",Wet,Snow,Morning,Minor,5,6,60,Drunk Driving
+ACC00367,2024-06-15 05:54:54.068639,"West Michelle, MD",Icy,Fog,Evening,Moderate,5,5,60,Drunk Driving
+ACC00368,2024-11-06 03:41:14.833632,"Theresaberg, WV",Snowy,Clear,Evening,Severe,3,4,50,Distracted Driving
+ACC00369,2024-06-26 07:56:06.207261,"West Johnville, KY",Snowy,Fog,Night,Minor,5,4,30,Road Condition
+ACC00370,2024-07-25 04:55:09.657200,"North Brent, MS",Wet,Snow,Night,Moderate,5,1,40,Weather
+ACC00371,2024-12-23 14:55:17.486631,"Wrightburgh, GU",Icy,Clear,Morning,Minor,2,2,60,Road Condition
+ACC00372,2024-06-10 14:05:32.753967,"Jamesburgh, NM",Wet,Clear,Afternoon,Moderate,1,0,70,Speeding
+ACC00373,2025-02-09 18:17:50.770014,"Jimenezport, NM",Icy,Rain,Morning,Moderate,1,1,40,Distracted Driving
+ACC00374,2024-02-20 11:01:35.324271,"Wagnerbury, IL",Wet,Clear,Morning,Severe,1,2,40,Drunk Driving
+ACC00375,2024-09-12 01:19:23.139086,"North Juanfort, LA",Wet,Fog,Afternoon,Minor,5,4,40,Distracted Driving
+ACC00376,2024-08-26 00:22:15.288953,"South Dennisview, VA",Wet,Rain,Night,Moderate,4,5,70,Distracted Driving
+ACC00377,2024-06-24 14:11:15.413095,"Diazfurt, AR",Dry,Fog,Afternoon,Minor,1,0,30,Drunk Driving
+ACC00378,2024-09-07 06:49:14.281600,"West Angela, CA",Icy,Fog,Evening,Severe,2,3,60,Weather
+ACC00379,2024-07-02 02:30:34.873797,"Duranview, GU",Dry,Fog,Evening,Severe,2,1,60,Distracted Driving
+ACC00380,2025-02-07 06:00:01.119543,"East Theresafurt, MN",Snowy,Snow,Afternoon,Minor,2,1,70,Weather
+ACC00381,2024-11-28 07:44:48.983149,"Angelastad, WV",Dry,Fog,Afternoon,Minor,3,2,40,Drunk Driving
+ACC00382,2024-04-04 16:28:53.973023,"Porterton, AZ",Snowy,Fog,Morning,Minor,2,3,60,Weather
+ACC00383,2024-04-02 01:05:47.663068,"Lindahaven, NH",Snowy,Snow,Evening,Minor,1,1,60,Speeding
+ACC00384,2024-04-06 09:26:48.231704,"West Sarah, MD",Icy,Fog,Evening,Severe,4,4,50,Road Condition
+ACC00385,2024-04-11 08:19:21.161198,"Brittneyhaven, MP",Icy,Snow,Morning,Minor,3,0,60,Weather
+ACC00386,2024-08-16 03:54:00.312871,"Ericksonport, NJ",Snowy,Rain,Night,Minor,1,2,40,Drunk Driving
+ACC00387,2024-12-05 22:31:37.572983,"Markville, MT",Icy,Clear,Night,Moderate,5,4,50,Weather
+ACC00388,2024-09-12 04:27:41.392957,"New Thomasshire, OK",Wet,Fog,Evening,Minor,2,2,60,Speeding
+ACC00389,2024-05-05 02:27:28.489343,"New Timothyhaven, SC",Wet,Snow,Afternoon,Minor,3,3,30,Speeding
+ACC00390,2024-11-01 09:35:03.339688,"Hernandezbury, AZ",Wet,Snow,Night,Moderate,2,1,70,Drunk Driving
+ACC00391,2024-09-08 02:52:55.896148,"East Andrewmouth, MT",Icy,Clear,Night,Severe,2,1,40,Distracted Driving
+ACC00392,2024-04-07 07:16:43.234620,"South Warren, RI",Icy,Snow,Evening,Minor,2,1,70,Distracted Driving
+ACC00393,2025-01-13 04:56:03.598376,"Lake Devinborough, OH",Snowy,Rain,Morning,Minor,3,2,40,Speeding
+ACC00394,2024-06-09 17:10:29.344806,"Foxmouth, HI",Dry,Rain,Evening,Fatal,2,3,40,Road Condition
+ACC00395,2024-07-28 21:10:07.728770,"Amyview, RI",Wet,Rain,Afternoon,Minor,1,1,50,Speeding
+ACC00396,2024-08-06 20:04:30.645631,"West Angela, IN",Icy,Snow,Morning,Moderate,1,2,70,Weather
+ACC00397,2025-01-20 20:42:17.833272,"Kellieborough, UT",Dry,Fog,Evening,Moderate,4,5,40,Weather
+ACC00398,2024-10-26 11:37:35.395721,"Timothyside, WY",Dry,Fog,Night,Moderate,2,2,50,Drunk Driving
+ACC00399,2024-11-01 13:48:19.275904,"Davidside, MS",Icy,Rain,Afternoon,Fatal,1,0,60,Weather
+ACC00400,2025-01-04 03:53:23.404063,"Cardenasberg, LA",Icy,Snow,Evening,Minor,5,3,70,Road Condition
+ACC00401,2024-02-27 08:36:48.019428,"West Sandraview, WA",Wet,Clear,Morning,Moderate,2,3,40,Weather
+ACC00402,2024-08-04 23:21:44.826086,"Port Amanda, OH",Snowy,Fog,Morning,Severe,1,1,60,Road Condition
+ACC00403,2024-10-23 06:20:20.945288,"North Christina, OR",Icy,Fog,Night,Moderate,1,0,60,Weather
+ACC00404,2024-05-09 09:21:27.984602,"Lake Rebeccabury, SC",Wet,Clear,Morning,Minor,2,1,60,Speeding
+ACC00405,2024-05-07 00:51:28.848945,"South Markfort, CT",Icy,Snow,Night,Moderate,5,1,70,Drunk Driving
+ACC00406,2024-10-17 19:02:02.685866,"North Tamara, GA",Icy,Snow,Morning,Moderate,5,5,60,Road Condition
+ACC00407,2024-07-09 14:43:18.024898,"Woodsborough, WV",Icy,Fog,Afternoon,Minor,3,2,50,Weather
+ACC00408,2025-01-29 01:18:27.851975,"Justinton, PW",Snowy,Fog,Evening,Minor,3,2,60,Drunk Driving
+ACC00409,2024-11-18 18:19:38.677675,"New Joanne, PR",Snowy,Rain,Night,Moderate,1,2,70,Road Condition
+ACC00410,2025-01-19 02:29:15.336074,"South Nicole, HI",Icy,Clear,Afternoon,Severe,3,3,30,Distracted Driving
+ACC00411,2025-01-18 02:24:36.266447,"Port Randyfort, HI",Dry,Rain,Evening,Minor,4,0,30,Drunk Driving
+ACC00412,2025-01-19 01:57:21.894243,"Nancytown, ME",Icy,Clear,Afternoon,Minor,3,2,60,Distracted Driving
+ACC00413,2024-09-06 10:29:09.747512,"West Justinside, NC",Snowy,Snow,Evening,Moderate,3,4,50,Speeding
+ACC00414,2024-08-10 09:23:10.855848,"Port William, KY",Dry,Clear,Evening,Minor,2,0,70,Speeding
+ACC00415,2024-04-22 10:00:25.393117,"West Franciscomouth, SD",Snowy,Fog,Morning,Minor,2,2,70,Weather
+ACC00416,2024-05-15 22:59:26.907475,"North Jill, WY",Dry,Clear,Night,Minor,3,4,60,Weather
+ACC00417,2024-05-29 17:58:49.612518,"East Cheryl, SC",Wet,Rain,Night,Minor,5,1,40,Road Condition
+ACC00418,2025-01-04 15:07:48.614328,"Robertsonland, MO",Wet,Fog,Morning,Severe,4,1,30,Drunk Driving
+ACC00419,2024-10-13 10:24:17.282513,"East Thomas, IA",Wet,Rain,Night,Minor,5,5,50,Distracted Driving
+ACC00420,2024-02-14 11:44:23.310715,"Youngview, MA",Icy,Clear,Afternoon,Minor,5,5,60,Weather
+ACC00421,2024-06-01 06:39:12.149446,"West Desireebury, AR",Wet,Fog,Afternoon,Minor,1,0,60,Speeding
+ACC00422,2024-10-12 21:31:17.129167,"Parkerfurt, TX",Dry,Fog,Evening,Minor,1,1,60,Drunk Driving
+ACC00423,2024-08-13 12:50:32.845465,"Hannahport, MN",Icy,Clear,Afternoon,Fatal,2,0,50,Road Condition
+ACC00424,2024-09-23 11:31:40.005957,"East Timothy, NH",Snowy,Rain,Morning,Minor,2,0,50,Weather
+ACC00425,2024-11-11 02:19:57.853973,"Robertside, PW",Snowy,Fog,Evening,Minor,3,0,50,Speeding
+ACC00426,2024-08-01 23:02:04.323468,"Port John, WV",Dry,Fog,Afternoon,Moderate,2,0,70,Weather
+ACC00427,2024-09-16 14:38:06.793750,"New Seanstad, CA",Snowy,Snow,Morning,Fatal,1,1,30,Weather
+ACC00428,2025-01-12 00:12:56.059285,"North Mariahaven, ID",Dry,Snow,Night,Minor,3,4,40,Distracted Driving
+ACC00429,2024-09-08 04:02:02.540367,"East Mark, NC",Snowy,Fog,Night,Severe,1,1,30,Speeding
+ACC00430,2024-07-22 08:56:12.674374,"Lake Brandy, CO",Dry,Rain,Afternoon,Minor,4,0,70,Speeding
+ACC00431,2025-01-05 07:19:00.965233,"Stokesmouth, DC",Snowy,Clear,Afternoon,Moderate,1,2,50,Weather
+ACC00432,2024-08-17 10:52:33.690484,"Elliottside, NH",Snowy,Rain,Afternoon,Moderate,5,3,70,Road Condition
+ACC00433,2024-10-14 17:11:20.084083,"Jenniferfurt, KS",Snowy,Clear,Evening,Moderate,2,3,60,Distracted Driving
+ACC00434,2024-12-06 04:42:05.907120,"New Charles, NE",Icy,Rain,Afternoon,Minor,2,0,30,Drunk Driving
+ACC00435,2024-06-16 19:55:33.486480,"New Virginialand, NJ",Wet,Clear,Night,Minor,2,1,40,Distracted Driving
+ACC00436,2024-02-23 14:02:55.946869,"Whiteberg, WI",Icy,Fog,Night,Severe,3,2,40,Drunk Driving
+ACC00437,2024-10-03 07:19:22.067839,"Brooksfurt, NV",Snowy,Rain,Evening,Minor,3,2,50,Weather
+ACC00438,2024-12-25 14:45:04.763795,"Bennettside, DC",Snowy,Clear,Morning,Minor,4,4,30,Speeding
+ACC00439,2024-10-07 16:35:30.010797,"Davidside, MO",Snowy,Snow,Night,Fatal,2,1,40,Road Condition
+ACC00440,2024-08-23 03:34:31.405960,"Port Adam, AK",Dry,Fog,Morning,Minor,3,2,50,Drunk Driving
+ACC00441,2025-02-03 09:04:59.151765,"Nunezside, NE",Dry,Fog,Evening,Minor,1,2,40,Road Condition
+ACC00442,2024-08-24 06:40:15.452860,"East Steven, FL",Snowy,Rain,Night,Minor,5,3,50,Drunk Driving
+ACC00443,2024-05-22 16:08:52.688503,"North Lisachester, RI",Icy,Snow,Afternoon,Minor,2,2,60,Road Condition
+ACC00444,2024-11-17 18:54:34.036221,"East Jamieville, PA",Icy,Clear,Morning,Minor,1,0,50,Drunk Driving
+ACC00445,2024-02-24 06:11:24.669841,"East Joyfurt, NV",Wet,Rain,Evening,Moderate,2,1,30,Weather
+ACC00446,2024-05-07 14:01:49.745662,"Port Michelle, AR",Dry,Fog,Afternoon,Minor,4,0,60,Speeding
+ACC00447,2024-04-03 04:15:48.348109,"Jimshire, MD",Icy,Snow,Afternoon,Moderate,1,0,60,Road Condition
+ACC00448,2024-09-09 21:52:27.272177,"Joelberg, TN",Icy,Rain,Night,Severe,4,0,40,Road Condition
+ACC00449,2024-08-20 09:01:48.909160,"Turnerton, OH",Snowy,Rain,Afternoon,Minor,4,1,70,Distracted Driving
+ACC00450,2025-01-23 10:22:10.278531,"Lake Erika, OH",Wet,Snow,Afternoon,Fatal,3,0,40,Weather
+ACC00451,2024-08-11 00:21:41.347029,"Shellyfurt, WY",Icy,Clear,Evening,Minor,5,1,60,Weather
+ACC00452,2024-08-21 13:11:09.322788,"Russellport, MS",Icy,Snow,Morning,Minor,4,5,30,Drunk Driving
+ACC00453,2024-04-19 03:42:27.388277,"Allenbury, ME",Icy,Fog,Morning,Moderate,2,2,50,Weather
+ACC00454,2024-12-21 04:52:09.474762,"Port Steven, AR",Snowy,Fog,Night,Minor,1,2,30,Weather
+ACC00455,2024-09-04 09:36:31.941223,"Grantberg, MS",Dry,Rain,Evening,Minor,2,0,60,Distracted Driving
+ACC00456,2024-05-10 16:42:29.077591,"West Deborah, NV",Wet,Snow,Morning,Moderate,5,5,50,Distracted Driving
+ACC00457,2024-12-17 09:38:11.616251,"New Jennyborough, AR",Dry,Clear,Afternoon,Minor,4,1,50,Drunk Driving
+ACC00458,2024-05-20 01:08:18.454080,"Port Charlesshire, VA",Icy,Clear,Night,Fatal,2,2,60,Road Condition
+ACC00459,2024-10-14 05:38:33.867245,"South Jason, PW",Snowy,Rain,Morning,Fatal,3,4,50,Weather
+ACC00460,2024-06-12 14:33:13.853931,"East Sharonville, WA",Dry,Clear,Morning,Moderate,5,0,50,Speeding
+ACC00461,2025-02-11 01:52:36.938451,"Rochaborough, MO",Wet,Rain,Evening,Moderate,1,0,30,Weather
+ACC00462,2025-01-11 05:38:51.092009,"Kimberlyfurt, NH",Dry,Rain,Evening,Severe,5,5,70,Speeding
+ACC00463,2024-08-24 21:43:03.187241,"Kylestad, NY",Dry,Snow,Evening,Minor,4,5,60,Drunk Driving
+ACC00464,2024-12-30 10:23:10.718333,"Garciafort, WV",Snowy,Clear,Afternoon,Minor,3,0,40,Weather
+ACC00465,2024-12-14 16:45:02.207573,"West Lawrence, AZ",Icy,Clear,Morning,Minor,3,2,50,Road Condition
+ACC00466,2024-09-04 10:49:31.318065,"Lake Dustin, KS",Wet,Clear,Night,Minor,5,3,70,Distracted Driving
+ACC00467,2024-09-01 02:03:53.936448,"Phillipsborough, MA",Dry,Rain,Afternoon,Moderate,2,3,50,Weather
+ACC00468,2024-05-06 00:09:24.055868,"South Andrea, TX",Icy,Fog,Evening,Minor,4,2,40,Distracted Driving
+ACC00469,2024-06-14 06:52:33.994369,"Levyfort, NH",Dry,Snow,Night,Moderate,4,5,70,Drunk Driving
+ACC00470,2024-04-13 10:33:51.751610,"Garyside, NM",Snowy,Clear,Evening,Minor,1,1,40,Weather
+ACC00471,2024-04-19 05:11:13.979571,"New Arthurland, GU",Icy,Fog,Afternoon,Minor,3,0,50,Weather
+ACC00472,2024-10-13 01:17:08.493954,"South Derrickbury, CA",Snowy,Clear,Morning,Moderate,2,2,30,Weather
+ACC00473,2024-10-27 06:44:50.229025,"East Williamstad, AR",Snowy,Rain,Morning,Minor,3,1,50,Drunk Driving
+ACC00474,2024-09-24 15:39:50.430062,"Hopkinstown, AL",Wet,Fog,Morning,Minor,3,4,60,Road Condition
+ACC00475,2024-08-24 09:06:55.885451,"Smithhaven, VA",Wet,Snow,Morning,Moderate,4,4,70,Drunk Driving
+ACC00476,2024-05-22 08:10:47.912197,"Andrechester, AS",Snowy,Clear,Night,Moderate,2,1,70,Road Condition
+ACC00477,2025-01-20 05:09:27.748102,"North Samantha, NC",Icy,Rain,Afternoon,Minor,4,2,70,Drunk Driving
+ACC00478,2024-04-06 09:04:05.648569,"New Alisha, GU",Dry,Clear,Afternoon,Severe,4,0,50,Weather
+ACC00479,2024-06-20 10:48:51.247406,"Millerfurt, NH",Wet,Snow,Morning,Severe,4,0,50,Speeding
+ACC00480,2024-09-05 08:32:31.710934,"West Gabriella, PR",Dry,Fog,Morning,Minor,4,0,40,Weather
+ACC00481,2024-03-12 10:32:13.817601,"North Richardfurt, OH",Icy,Clear,Afternoon,Minor,2,1,50,Weather
+ACC00482,2024-08-03 20:24:54.279516,"Lake Georgefort, PR",Snowy,Fog,Evening,Minor,5,5,30,Speeding
+ACC00483,2024-07-19 11:24:59.335122,"Arielville, MH",Snowy,Fog,Evening,Minor,3,3,30,Weather
+ACC00484,2024-08-22 21:35:06.987268,"East Jasonshire, NJ",Wet,Fog,Morning,Minor,5,2,50,Road Condition
+ACC00485,2024-05-21 00:13:22.009225,"Lake Saraside, OK",Icy,Rain,Afternoon,Minor,3,0,70,Drunk Driving
+ACC00486,2024-10-09 08:41:46.560957,"Port Leonard, IL",Snowy,Clear,Afternoon,Moderate,2,3,60,Speeding
+ACC00487,2024-09-13 09:41:10.359063,"Hickmanport, GA",Dry,Fog,Afternoon,Moderate,2,0,30,Road Condition
+ACC00488,2024-09-04 23:23:27.020562,"Rhodesside, MA",Wet,Snow,Afternoon,Moderate,2,3,40,Distracted Driving
+ACC00489,2024-07-01 04:34:20.642414,"Port Vanessa, VA",Icy,Snow,Evening,Fatal,2,0,50,Drunk Driving
+ACC00490,2024-03-11 15:20:48.940561,"Brianchester, IN",Icy,Snow,Morning,Minor,2,3,30,Weather
+ACC00491,2024-12-14 07:29:21.760189,"Cassiefurt, WI",Wet,Rain,Morning,Moderate,1,2,30,Road Condition
+ACC00492,2024-06-10 04:48:28.685245,"Kristenmouth, NM",Wet,Clear,Morning,Minor,5,0,60,Drunk Driving
+ACC00493,2024-05-05 07:40:29.940094,"Reynoldsshire, TN",Snowy,Clear,Morning,Minor,1,0,40,Speeding
+ACC00494,2024-06-29 19:29:41.281882,"Laurenland, CO",Dry,Snow,Evening,Minor,3,2,40,Road Condition
+ACC00495,2024-05-19 20:50:49.634325,"Dawsonberg, WA",Snowy,Snow,Evening,Moderate,1,0,60,Speeding
+ACC00496,2024-07-03 07:12:04.817407,"Danieltown, ME",Snowy,Fog,Afternoon,Moderate,4,3,40,Distracted Driving
+ACC00497,2024-07-23 10:18:59.281420,"Curtisland, HI",Snowy,Clear,Evening,Moderate,2,1,50,Distracted Driving
+ACC00498,2024-07-18 09:43:53.807064,"Garcialand, MI",Icy,Snow,Afternoon,Minor,5,2,30,Distracted Driving
+ACC00499,2024-09-01 10:01:35.084903,"Michelletown, LA",Wet,Rain,Afternoon,Fatal,1,1,70,Weather
+ACC00500,2024-07-12 03:13:42.125814,"Lake Rachelbury, OK",Wet,Rain,Morning,Minor,4,2,70,Drunk Driving
+ACC00501,2024-08-20 07:44:45.105708,"Jacksonview, ME",Wet,Fog,Evening,Moderate,3,0,60,Speeding
+ACC00502,2024-05-20 00:39:29.438243,"North Gary, KY",Dry,Clear,Night,Minor,4,4,30,Weather
+ACC00503,2024-07-14 19:09:02.365184,"Pattonstad, KS",Dry,Clear,Afternoon,Minor,3,0,60,Speeding
+ACC00504,2025-01-21 20:41:40.708554,"Wheelerborough, NH",Snowy,Fog,Morning,Minor,5,5,70,Weather
+ACC00505,2024-03-22 01:33:45.763046,"Adamfurt, MA",Wet,Clear,Afternoon,Moderate,4,5,60,Weather
+ACC00506,2024-12-15 09:14:58.458847,"Brockmouth, NV",Dry,Clear,Afternoon,Minor,3,4,40,Speeding
+ACC00507,2024-06-13 06:05:09.642420,"West Malik, UT",Icy,Snow,Evening,Moderate,5,4,60,Weather
+ACC00508,2024-04-25 08:29:04.404178,"Gregoryfurt, MD",Snowy,Clear,Morning,Minor,3,2,50,Road Condition
+ACC00509,2024-05-28 10:37:59.377100,"Faulknerbury, MD",Snowy,Snow,Night,Severe,2,1,50,Speeding
+ACC00510,2024-06-28 08:16:44.896843,"Diazshire, ID",Wet,Clear,Night,Minor,4,0,60,Distracted Driving
+ACC00511,2024-09-15 07:11:19.171902,"Lake Katrina, AK",Snowy,Rain,Morning,Minor,5,1,30,Speeding
+ACC00512,2025-01-25 01:40:41.931456,"Hahnborough, NV",Dry,Clear,Afternoon,Moderate,1,1,50,Drunk Driving
+ACC00513,2024-11-29 08:11:18.398211,"Port Melaniechester, TX",Icy,Clear,Morning,Fatal,3,4,70,Road Condition
+ACC00514,2024-08-12 08:38:26.748825,"Johnberg, VT",Wet,Clear,Night,Moderate,1,2,40,Road Condition
+ACC00515,2024-07-15 12:54:24.173844,"Jonesfort, OR",Snowy,Clear,Afternoon,Moderate,1,0,50,Weather
+ACC00516,2024-07-07 09:13:47.643877,"Stephensstad, UT",Wet,Fog,Afternoon,Minor,1,0,60,Speeding
+ACC00517,2025-01-04 01:37:11.907844,"North Kaylastad, GA",Wet,Fog,Night,Moderate,2,1,60,Distracted Driving
+ACC00518,2024-10-05 07:18:50.394852,"New Tonyafurt, WV",Wet,Rain,Morning,Minor,5,2,70,Weather
+ACC00519,2024-06-12 02:33:56.586067,"Rodriguezville, KS",Icy,Fog,Afternoon,Minor,3,2,60,Speeding
+ACC00520,2024-05-03 01:52:36.459057,"South Neil, NH",Icy,Rain,Night,Minor,3,1,70,Distracted Driving
+ACC00521,2024-11-20 02:02:06.931468,"West Whitney, NJ",Icy,Clear,Morning,Minor,4,4,70,Road Condition
+ACC00522,2024-03-21 04:19:23.489567,"Knappland, DE",Dry,Snow,Morning,Minor,1,1,50,Weather
+ACC00523,2024-12-11 15:00:01.601839,"West Larry, NH",Dry,Rain,Afternoon,Minor,3,3,30,Speeding
+ACC00524,2024-11-24 10:35:28.264734,"Baileyville, NV",Snowy,Snow,Evening,Moderate,5,5,50,Speeding
+ACC00525,2024-11-01 16:41:39.261677,"Floresport, AZ",Dry,Clear,Morning,Moderate,1,0,60,Road Condition
+ACC00526,2024-12-03 21:45:50.722256,"North Melindaville, TX",Dry,Clear,Morning,Minor,5,4,60,Road Condition
+ACC00527,2024-11-30 04:54:57.605077,"New Greg, GA",Dry,Fog,Night,Minor,3,0,70,Drunk Driving
+ACC00528,2024-06-11 21:14:40.179022,"Mullenbury, AS",Icy,Snow,Night,Severe,4,5,50,Drunk Driving
+ACC00529,2024-07-08 22:25:02.014173,"East Danielle, NE",Dry,Fog,Evening,Minor,2,1,60,Road Condition
+ACC00530,2024-07-05 11:26:55.672841,"South Brittany, MS",Dry,Rain,Night,Severe,5,2,60,Speeding
+ACC00531,2024-02-13 14:52:35.842432,"East Joshua, VT",Snowy,Fog,Evening,Minor,2,0,40,Road Condition
+ACC00532,2024-12-03 08:59:59.435173,"New Cristianside, HI",Wet,Clear,Morning,Moderate,5,6,40,Speeding
+ACC00533,2024-06-24 14:19:21.059811,"South Daniel, TN",Snowy,Snow,Evening,Minor,4,4,40,Speeding
+ACC00534,2024-12-23 01:32:00.792062,"Candicefurt, OR",Wet,Snow,Morning,Moderate,4,4,70,Weather
+ACC00535,2024-03-24 17:11:58.381006,"Meganburgh, GU",Icy,Clear,Morning,Minor,5,4,40,Drunk Driving
+ACC00536,2024-10-15 00:23:12.900606,"Samanthashire, CO",Wet,Clear,Evening,Minor,4,3,60,Weather
+ACC00537,2024-10-14 11:25:27.411681,"Davidport, DE",Snowy,Clear,Evening,Moderate,5,1,60,Drunk Driving
+ACC00538,2024-04-18 20:23:34.541234,"New Paul, PA",Snowy,Snow,Evening,Fatal,3,2,50,Weather
+ACC00539,2024-04-02 08:22:48.942888,"Hendersonfort, SC",Snowy,Snow,Evening,Severe,3,3,60,Road Condition
+ACC00540,2024-08-26 06:24:22.755200,"New Garrett, LA",Icy,Fog,Morning,Minor,4,1,70,Speeding
+ACC00541,2024-04-03 05:40:27.719796,"Meganton, VI",Dry,Fog,Morning,Minor,3,2,70,Speeding
+ACC00542,2024-06-22 03:07:11.369870,"South Derrickfurt, OH",Wet,Rain,Morning,Severe,5,3,70,Road Condition
+ACC00543,2024-08-14 14:25:01.153003,"Ortizfort, MT",Snowy,Rain,Night,Minor,3,1,40,Drunk Driving
+ACC00544,2024-10-28 08:48:22.382308,"Burnsland, OK",Snowy,Rain,Afternoon,Fatal,2,1,50,Weather
+ACC00545,2024-02-23 06:23:10.140750,"West Antonio, IN",Icy,Fog,Evening,Severe,3,3,50,Distracted Driving
+ACC00546,2024-08-26 08:25:00.236014,"Port Stephen, WA",Wet,Clear,Night,Fatal,2,0,40,Drunk Driving
+ACC00547,2024-11-20 03:50:08.864913,"Dunnville, OK",Snowy,Fog,Evening,Moderate,2,0,70,Road Condition
+ACC00548,2024-03-24 16:58:36.146379,"Amberton, WV",Dry,Clear,Morning,Moderate,1,2,60,Distracted Driving
+ACC00549,2024-10-31 14:16:36.658557,"South Curtis, MP",Dry,Snow,Afternoon,Moderate,4,2,50,Road Condition
+ACC00550,2024-10-07 17:47:52.342679,"West Nancy, AZ",Wet,Rain,Morning,Fatal,4,3,50,Distracted Driving
+ACC00551,2024-07-25 06:06:51.813361,"Michelleland, NV",Snowy,Clear,Evening,Minor,4,3,70,Drunk Driving
+ACC00552,2024-12-24 00:47:49.936980,"Port Lisaborough, AS",Icy,Fog,Evening,Moderate,5,4,30,Road Condition
+ACC00553,2024-11-07 09:36:25.143283,"Michellechester, GA",Wet,Snow,Afternoon,Minor,2,0,70,Distracted Driving
+ACC00554,2024-09-24 00:54:07.747609,"Port Jamie, AR",Wet,Rain,Afternoon,Moderate,4,1,50,Weather
+ACC00555,2024-09-07 05:00:12.599384,"Candiceburgh, MD",Wet,Rain,Afternoon,Minor,1,1,30,Road Condition
+ACC00556,2025-02-03 13:32:56.479568,"Keithview, PR",Snowy,Rain,Afternoon,Moderate,3,4,60,Road Condition
+ACC00557,2024-08-17 21:06:24.981805,"East Sydneychester, PW",Wet,Clear,Morning,Moderate,1,1,40,Weather
+ACC00558,2024-03-04 15:33:16.069745,"Michelleberg, UT",Wet,Rain,Evening,Moderate,3,0,40,Speeding
+ACC00559,2024-12-24 07:42:26.888734,"East Jennifer, MP",Wet,Snow,Afternoon,Moderate,5,4,70,Weather
+ACC00560,2024-05-12 09:52:26.576444,"Burnsshire, SC",Dry,Fog,Evening,Severe,2,1,30,Speeding
+ACC00561,2024-05-20 03:22:43.227097,"Brooksland, SC",Icy,Fog,Afternoon,Severe,4,5,60,Drunk Driving
+ACC00562,2024-11-28 05:07:46.213941,"South Zacharyview, UT",Icy,Snow,Morning,Minor,1,0,50,Drunk Driving
+ACC00563,2025-01-18 23:33:58.559559,"Shawnfort, MD",Dry,Rain,Night,Minor,3,4,40,Road Condition
+ACC00564,2024-09-11 13:09:04.486855,"Lake Teresastad, PR",Wet,Snow,Evening,Minor,1,0,40,Speeding
+ACC00565,2024-03-06 03:00:36.740700,"Robinsonchester, GU",Wet,Snow,Night,Minor,1,1,70,Weather
+ACC00566,2024-04-29 08:54:27.796642,"Marcusport, MA",Wet,Clear,Afternoon,Severe,4,0,50,Road Condition
+ACC00567,2024-08-29 21:27:41.077066,"New Melissa, WY",Icy,Fog,Evening,Minor,5,1,60,Speeding
+ACC00568,2024-06-16 13:00:27.458519,"North Corymouth, AK",Icy,Snow,Morning,Moderate,1,2,60,Speeding
+ACC00569,2024-03-28 08:54:06.866358,"South Stephen, NE",Wet,Snow,Night,Minor,4,0,50,Drunk Driving
+ACC00570,2024-04-25 21:20:29.227276,"Lake Kevin, VI",Wet,Clear,Afternoon,Moderate,2,2,40,Road Condition
+ACC00571,2025-01-17 15:55:01.343393,"Clarencestad, KS",Icy,Fog,Evening,Severe,2,2,60,Speeding
+ACC00572,2024-03-13 02:20:49.928453,"North Randy, ME",Snowy,Clear,Afternoon,Minor,2,2,30,Distracted Driving
+ACC00573,2024-11-03 03:42:30.125109,"South Diana, VT",Wet,Rain,Morning,Moderate,2,2,30,Road Condition
+ACC00574,2024-03-17 18:13:33.197507,"South Christian, OR",Icy,Clear,Morning,Minor,1,2,50,Road Condition
+ACC00575,2024-05-04 14:36:12.300687,"Smithmouth, GU",Icy,Clear,Afternoon,Moderate,3,3,60,Road Condition
+ACC00576,2024-03-27 00:57:53.272819,"Bensonfort, CA",Icy,Fog,Evening,Minor,3,2,40,Drunk Driving
+ACC00577,2024-05-05 14:45:42.854432,"Lake Lindaville, MD",Icy,Snow,Evening,Minor,1,2,40,Drunk Driving
+ACC00578,2024-06-25 05:49:34.203135,"Derrickberg, SD",Snowy,Snow,Afternoon,Severe,4,5,30,Road Condition
+ACC00579,2025-02-08 15:44:37.342909,"North Alyssa, AL",Dry,Rain,Night,Severe,5,0,50,Speeding
+ACC00580,2024-09-21 21:46:50.109485,"South Michael, IL",Wet,Snow,Afternoon,Minor,1,0,50,Distracted Driving
+ACC00581,2024-09-28 09:28:02.956794,"South Christina, NV",Snowy,Clear,Morning,Minor,3,1,70,Distracted Driving
+ACC00582,2024-12-22 02:05:37.358763,"North Donaldville, OR",Icy,Snow,Evening,Minor,4,1,30,Speeding
+ACC00583,2024-11-04 14:57:12.989295,"Sylviamouth, WY",Snowy,Fog,Afternoon,Minor,5,0,40,Distracted Driving
+ACC00584,2024-04-03 01:35:11.353083,"Deannabury, OH",Wet,Fog,Night,Minor,1,0,50,Speeding
+ACC00585,2024-09-18 12:04:55.728314,"Kimberlytown, PR",Icy,Snow,Afternoon,Fatal,1,1,40,Distracted Driving
+ACC00586,2024-12-17 09:04:52.022185,"Jamiehaven, ID",Icy,Snow,Night,Fatal,4,4,70,Road Condition
+ACC00587,2024-11-11 03:17:11.347724,"Debbiebury, NM",Wet,Snow,Evening,Moderate,1,2,30,Drunk Driving
+ACC00588,2024-07-01 22:26:56.209023,"South Danielle, CA",Snowy,Fog,Morning,Minor,1,0,50,Speeding
+ACC00589,2024-08-22 22:42:04.642407,"West Sarahberg, MS",Dry,Rain,Afternoon,Minor,3,2,70,Weather
+ACC00590,2024-12-22 09:33:27.267335,"Diazburgh, WV",Dry,Rain,Night,Moderate,3,4,60,Distracted Driving
+ACC00591,2024-08-02 00:40:11.204342,"North Brendatown, KS",Snowy,Fog,Afternoon,Minor,1,0,70,Road Condition
+ACC00592,2024-04-30 19:01:09.954653,"Port Raymondport, SC",Snowy,Rain,Afternoon,Severe,5,5,70,Distracted Driving
+ACC00593,2024-10-29 06:36:14.620451,"Hendersonfurt, CO",Dry,Rain,Night,Moderate,3,1,70,Distracted Driving
+ACC00594,2024-10-02 22:39:53.105429,"West Christopher, CO",Dry,Snow,Morning,Minor,1,1,60,Distracted Driving
+ACC00595,2024-08-16 17:50:34.379665,"Port Eric, MD",Wet,Rain,Morning,Minor,3,1,50,Distracted Driving
+ACC00596,2024-07-03 16:55:37.886055,"West Hollybury, AR",Wet,Rain,Afternoon,Minor,2,1,70,Speeding
+ACC00597,2024-05-11 06:55:10.045467,"Wilsonton, ME",Dry,Snow,Evening,Severe,4,0,60,Drunk Driving
+ACC00598,2024-10-12 06:33:44.425055,"North Alexander, DC",Dry,Fog,Morning,Minor,2,1,50,Distracted Driving
+ACC00599,2024-10-25 05:02:45.035494,"South Stephanie, NC",Icy,Fog,Morning,Minor,3,3,50,Weather
+ACC00600,2024-08-18 21:43:11.692281,"Garyberg, WA",Wet,Rain,Afternoon,Minor,1,0,60,Speeding
+ACC00601,2024-11-23 07:00:50.218141,"Jessicaville, WI",Snowy,Clear,Morning,Minor,3,1,70,Speeding
+ACC00602,2025-01-05 16:09:12.517839,"Lindsayview, NC",Snowy,Fog,Morning,Minor,2,2,30,Distracted Driving
+ACC00603,2024-03-06 07:45:18.498554,"South Spencerstad, AR",Snowy,Rain,Evening,Minor,2,3,60,Weather
+ACC00604,2024-08-12 11:19:48.054770,"West Eric, WI",Snowy,Snow,Afternoon,Minor,1,2,50,Speeding
+ACC00605,2024-03-20 13:54:30.236448,"East Joycetown, AZ",Dry,Rain,Afternoon,Minor,4,1,50,Drunk Driving
+ACC00606,2024-12-21 14:55:49.366965,"East Brandonstad, MS",Icy,Snow,Night,Moderate,5,0,60,Speeding
+ACC00607,2025-01-13 02:21:13.148962,"Port Austin, AS",Snowy,Snow,Night,Minor,1,2,70,Road Condition
+ACC00608,2025-01-10 19:18:52.324893,"Walkerbury, MT",Icy,Clear,Evening,Minor,3,2,40,Distracted Driving
+ACC00609,2025-01-11 12:01:54.029688,"Josephland, OK",Wet,Fog,Morning,Minor,5,5,50,Drunk Driving
+ACC00610,2024-06-27 03:48:55.896391,"East Jeffreyhaven, AZ",Dry,Rain,Morning,Fatal,1,2,70,Road Condition
+ACC00611,2025-01-25 11:05:58.984265,"South Michelleport, MD",Dry,Snow,Night,Minor,5,2,30,Drunk Driving
+ACC00612,2024-03-14 13:06:12.125650,"Smithborough, LA",Icy,Snow,Evening,Minor,3,0,30,Weather
+ACC00613,2024-09-04 22:03:47.475209,"Jodibury, NH",Snowy,Fog,Night,Moderate,4,1,30,Speeding
+ACC00614,2024-06-25 12:04:00.644969,"Cuevasborough, VA",Icy,Fog,Afternoon,Minor,3,2,60,Road Condition
+ACC00615,2025-01-05 20:56:18.413544,"East Adam, MT",Snowy,Fog,Morning,Moderate,4,3,50,Speeding
+ACC00616,2024-02-20 17:27:36.635527,"Cynthiatown, MA",Icy,Fog,Morning,Moderate,5,5,60,Speeding
+ACC00617,2024-02-12 12:41:04.227202,"Sweeneyport, CT",Snowy,Snow,Evening,Severe,5,5,40,Road Condition
+ACC00618,2024-04-26 22:33:11.654477,"South Travis, AR",Dry,Clear,Evening,Moderate,2,2,50,Distracted Driving
+ACC00619,2025-02-01 05:05:22.053785,"Lake Joshua, AZ",Dry,Snow,Night,Moderate,2,2,30,Weather
+ACC00620,2025-01-13 11:32:20.118148,"Haynesstad, NH",Icy,Clear,Afternoon,Moderate,1,2,60,Drunk Driving
+ACC00621,2025-02-01 22:34:55.230875,"New Codyberg, SC",Dry,Rain,Morning,Minor,5,2,40,Speeding
+ACC00622,2024-12-07 11:27:59.509302,"New Ashleychester, TN",Icy,Clear,Afternoon,Minor,5,2,40,Weather
+ACC00623,2025-01-29 03:58:28.542117,"West Jose, MD",Wet,Snow,Afternoon,Minor,4,4,70,Distracted Driving
+ACC00624,2025-01-15 05:19:48.397298,"Haynesmouth, MD",Snowy,Clear,Afternoon,Minor,4,1,40,Road Condition
+ACC00625,2024-07-26 08:38:07.017450,"North Sherry, DC",Icy,Rain,Evening,Severe,2,0,70,Speeding
+ACC00626,2024-11-22 20:36:32.452407,"East Danielmouth, NH",Dry,Rain,Evening,Minor,5,3,70,Road Condition
+ACC00627,2024-06-05 16:36:32.558699,"New Michaelborough, NV",Dry,Clear,Afternoon,Minor,3,1,40,Speeding
+ACC00628,2024-06-03 14:25:12.270394,"Melissaland, GA",Wet,Snow,Night,Minor,2,2,60,Road Condition
+ACC00629,2024-12-02 23:04:09.315421,"Margaretton, IL",Snowy,Rain,Night,Moderate,4,3,70,Speeding
+ACC00630,2024-12-13 07:23:03.682794,"Eddiebury, MI",Snowy,Clear,Afternoon,Minor,5,4,40,Drunk Driving
+ACC00631,2024-07-05 17:15:08.900247,"Lake Kentburgh, AK",Icy,Clear,Night,Minor,1,1,50,Drunk Driving
+ACC00632,2025-01-24 17:43:08.268033,"Hawkinsside, IA",Dry,Clear,Morning,Minor,5,3,50,Weather
+ACC00633,2024-03-17 14:12:27.558565,"Port Lauraville, AL",Icy,Fog,Morning,Minor,3,3,50,Weather
+ACC00634,2024-03-05 12:26:45.174407,"East James, MO",Wet,Clear,Night,Minor,2,1,30,Distracted Driving
+ACC00635,2024-06-26 22:49:58.324309,"New Brendaland, AK",Icy,Clear,Night,Minor,4,0,40,Distracted Driving
+ACC00636,2025-02-10 04:44:46.873783,"Lake Scott, DC",Dry,Rain,Night,Moderate,2,1,60,Drunk Driving
+ACC00637,2024-03-16 14:07:52.617739,"Davidmouth, AR",Wet,Clear,Afternoon,Minor,3,0,30,Speeding
+ACC00638,2024-04-13 08:25:18.110712,"Underwoodfurt, NM",Icy,Rain,Morning,Minor,2,2,40,Distracted Driving
+ACC00639,2024-02-22 18:18:11.936885,"Thompsonborough, PW",Icy,Snow,Afternoon,Minor,1,1,30,Speeding
+ACC00640,2024-04-20 08:23:25.287489,"Seanberg, AZ",Icy,Snow,Evening,Minor,1,1,30,Road Condition
+ACC00641,2024-09-23 06:58:46.150794,"Lake Kenneth, MT",Wet,Snow,Morning,Moderate,5,0,30,Distracted Driving
+ACC00642,2024-12-30 10:05:37.411189,"Brownview, MS",Snowy,Rain,Afternoon,Minor,1,1,30,Drunk Driving
+ACC00643,2024-04-02 02:50:47.762328,"Lake Nicole, NC",Dry,Rain,Afternoon,Minor,3,3,40,Drunk Driving
+ACC00644,2024-05-12 23:50:16.933843,"South Kimberlystad, NJ",Icy,Clear,Evening,Moderate,2,1,60,Speeding
+ACC00645,2024-08-28 20:58:51.652316,"Coopershire, NY",Wet,Snow,Morning,Minor,5,4,70,Distracted Driving
+ACC00646,2024-06-08 10:58:32.736340,"Hectormouth, PA",Wet,Fog,Night,Fatal,2,2,30,Distracted Driving
+ACC00647,2024-05-01 23:44:49.253693,"Brianfort, NC",Snowy,Snow,Evening,Minor,5,2,40,Weather
+ACC00648,2024-06-21 13:02:22.431752,"East Craig, TN",Dry,Rain,Evening,Minor,2,3,30,Weather
+ACC00649,2024-05-10 01:45:22.092362,"Port Wendybury, OK",Icy,Snow,Evening,Minor,5,1,40,Speeding
+ACC00650,2024-12-17 04:07:44.662464,"Kellyburgh, HI",Icy,Rain,Evening,Minor,4,0,30,Drunk Driving
+ACC00651,2024-05-08 09:25:08.646455,"Lindastad, PW",Dry,Rain,Morning,Minor,2,0,40,Distracted Driving
+ACC00652,2024-09-15 01:21:48.477348,"Staceyshire, FL",Wet,Rain,Afternoon,Minor,5,0,30,Weather
+ACC00653,2024-09-04 15:56:45.608249,"Port Vanessa, FM",Dry,Snow,Evening,Minor,2,3,30,Speeding
+ACC00654,2025-01-31 10:03:15.729661,"Gregoryton, CO",Icy,Rain,Morning,Minor,5,1,70,Distracted Driving
+ACC00655,2024-03-03 12:13:25.015572,"North Alisha, AL",Dry,Rain,Afternoon,Moderate,5,2,60,Speeding
+ACC00656,2024-06-12 03:46:09.057447,"Port David, VT",Snowy,Snow,Evening,Severe,1,2,30,Distracted Driving
+ACC00657,2024-04-16 19:26:21.351934,"Brianberg, OR",Snowy,Snow,Afternoon,Severe,3,1,30,Drunk Driving
+ACC00658,2024-10-26 09:04:03.416213,"Port Daniel, NC",Wet,Rain,Evening,Moderate,4,4,60,Speeding
+ACC00659,2024-12-22 08:17:26.140490,"West Janetfurt, OR",Wet,Rain,Afternoon,Minor,1,0,30,Distracted Driving
+ACC00660,2024-03-19 21:29:32.521899,"Marcusburgh, VA",Dry,Snow,Evening,Minor,2,0,70,Distracted Driving
+ACC00661,2025-01-23 11:53:18.335062,"Banksburgh, VT",Dry,Clear,Morning,Severe,1,1,30,Weather
+ACC00662,2025-01-30 19:38:10.831461,"Jeffreyshire, GU",Snowy,Snow,Night,Minor,5,3,70,Weather
+ACC00663,2024-04-16 00:57:32.094771,"Jessicaport, DC",Snowy,Clear,Afternoon,Moderate,2,1,50,Road Condition
+ACC00664,2024-04-16 21:37:00.545110,"Lake Stacyfurt, PR",Snowy,Snow,Night,Moderate,2,3,50,Drunk Driving
+ACC00665,2025-02-09 03:30:57.259945,"East Carriebury, SC",Snowy,Snow,Evening,Minor,3,0,70,Drunk Driving
+ACC00666,2024-09-05 13:20:46.811554,"Taylorland, IA",Snowy,Rain,Morning,Minor,3,4,40,Weather
+ACC00667,2024-06-17 15:55:22.546756,"Garyland, GU",Dry,Fog,Evening,Minor,4,2,60,Weather
+ACC00668,2024-10-27 22:29:33.998449,"Seanview, IL",Wet,Clear,Night,Minor,2,0,40,Distracted Driving
+ACC00669,2024-05-13 03:17:02.139172,"West Jonathanville, VA",Icy,Snow,Night,Severe,5,2,40,Speeding
+ACC00670,2024-02-12 11:05:56.148834,"Kimchester, GA",Dry,Fog,Night,Minor,3,3,50,Drunk Driving
+ACC00671,2024-12-31 01:38:20.866133,"Maciasstad, ND",Snowy,Clear,Afternoon,Minor,1,2,40,Drunk Driving
+ACC00672,2024-06-28 02:04:31.185478,"Kramershire, SD",Wet,Snow,Evening,Moderate,3,1,70,Speeding
+ACC00673,2024-11-14 22:26:58.327796,"East Shannon, AS",Snowy,Fog,Evening,Moderate,5,0,30,Distracted Driving
+ACC00674,2024-12-16 21:37:10.427067,"Andrewview, CT",Dry,Snow,Night,Moderate,2,3,30,Road Condition
+ACC00675,2024-03-10 02:17:29.489644,"South Eugene, CA",Icy,Clear,Morning,Minor,4,2,30,Speeding
+ACC00676,2024-08-29 19:08:41.362814,"West Brookefort, VT",Dry,Snow,Morning,Minor,3,3,70,Speeding
+ACC00677,2024-02-23 07:32:51.358069,"New Pamela, GA",Icy,Snow,Afternoon,Severe,3,0,60,Speeding
+ACC00678,2024-03-02 13:19:31.432424,"Jamieborough, MT",Wet,Clear,Morning,Moderate,3,4,50,Road Condition
+ACC00679,2024-10-23 15:19:39.322119,"Donnaport, IA",Snowy,Snow,Morning,Minor,3,1,70,Distracted Driving
+ACC00680,2024-03-18 00:38:40.409887,"Armstrongfort, FL",Dry,Clear,Afternoon,Moderate,1,1,40,Weather
+ACC00681,2024-03-02 21:38:42.215976,"South Christopherfort, ID",Icy,Rain,Afternoon,Severe,2,0,30,Road Condition
+ACC00682,2024-03-18 10:01:56.919283,"East Danielle, CO",Icy,Fog,Evening,Minor,1,0,70,Distracted Driving
+ACC00683,2024-08-02 23:04:31.015438,"West Kristenfort, NM",Icy,Snow,Evening,Moderate,1,0,60,Weather
+ACC00684,2025-01-03 20:08:59.496171,"Christopherside, MS",Icy,Fog,Evening,Severe,1,0,40,Distracted Driving
+ACC00685,2024-04-19 12:29:34.868003,"Woodmouth, AZ",Icy,Fog,Evening,Moderate,3,1,40,Speeding
+ACC00686,2024-05-18 03:51:28.310477,"Bakerview, OK",Dry,Rain,Evening,Fatal,1,2,70,Road Condition
+ACC00687,2024-03-05 12:11:04.315570,"North Elizabethside, MT",Dry,Snow,Afternoon,Moderate,3,2,60,Road Condition
+ACC00688,2025-01-31 12:50:25.370325,"New Bruce, MS",Wet,Fog,Evening,Fatal,2,0,60,Weather
+ACC00689,2024-12-06 21:48:44.306530,"Sheppardfort, OK",Icy,Fog,Afternoon,Moderate,4,3,50,Road Condition
+ACC00690,2024-12-30 00:14:05.400590,"Evansfurt, MH",Wet,Snow,Afternoon,Minor,3,1,70,Distracted Driving
+ACC00691,2024-12-19 21:18:00.512570,"New Ashleyhaven, AS",Snowy,Rain,Evening,Moderate,4,2,70,Speeding
+ACC00692,2024-09-07 17:22:21.061262,"North Stacy, NV",Snowy,Fog,Morning,Fatal,5,3,60,Weather
+ACC00693,2024-04-15 03:17:03.104806,"East Lindsey, DC",Snowy,Rain,Afternoon,Severe,3,2,30,Road Condition
+ACC00694,2024-02-27 13:57:19.129852,"Lake Ryanberg, MP",Dry,Fog,Evening,Minor,1,0,50,Weather
+ACC00695,2024-09-16 07:54:48.744982,"Reneeland, CO",Snowy,Rain,Afternoon,Minor,1,1,40,Weather
+ACC00696,2024-07-02 17:51:09.513510,"Arnoldview, NC",Dry,Clear,Evening,Severe,1,2,30,Distracted Driving
+ACC00697,2024-07-28 07:57:52.211190,"Port Isabellashire, NC",Icy,Fog,Afternoon,Minor,1,2,40,Speeding
+ACC00698,2024-11-23 11:56:15.036810,"South Edwardshire, OR",Icy,Fog,Morning,Moderate,4,5,60,Distracted Driving
+ACC00699,2024-09-11 19:28:34.003847,"North Annaville, WY",Icy,Fog,Afternoon,Severe,3,4,40,Drunk Driving
+ACC00700,2024-05-26 11:41:23.666707,"Natalieview, MS",Icy,Rain,Night,Severe,1,2,60,Drunk Driving
+ACC00701,2024-10-08 03:34:48.660762,"Johnsonview, MO",Icy,Rain,Afternoon,Severe,5,5,60,Speeding
+ACC00702,2024-04-04 12:50:47.749861,"Williamsmouth, UT",Icy,Snow,Morning,Minor,1,1,70,Weather
+ACC00703,2024-05-08 18:25:54.057183,"Mccallstad, AK",Snowy,Rain,Afternoon,Minor,1,2,40,Weather
+ACC00704,2024-06-14 09:31:17.734944,"Larryfort, PR",Wet,Fog,Afternoon,Minor,3,1,70,Distracted Driving
+ACC00705,2024-10-23 06:26:25.237137,"Port Jeremyport, WA",Icy,Clear,Morning,Minor,1,0,30,Road Condition
+ACC00706,2024-07-22 20:04:11.643698,"Josephchester, PA",Dry,Snow,Afternoon,Minor,2,2,40,Speeding
+ACC00707,2024-10-04 18:38:49.757752,"South Jason, GU",Snowy,Rain,Afternoon,Minor,2,3,50,Road Condition
+ACC00708,2024-07-09 17:01:34.584067,"Malonestad, GU",Icy,Snow,Morning,Minor,1,2,70,Distracted Driving
+ACC00709,2024-03-03 12:33:19.236216,"North Larry, NY",Snowy,Snow,Night,Minor,2,0,60,Road Condition
+ACC00710,2024-07-08 07:50:45.401253,"East Jamesborough, MP",Dry,Clear,Afternoon,Moderate,2,2,70,Speeding
+ACC00711,2024-03-04 01:01:03.304442,"South Brentstad, VT",Dry,Snow,Afternoon,Minor,5,6,30,Road Condition
+ACC00712,2024-04-24 17:13:01.522612,"Madisonhaven, MO",Icy,Clear,Evening,Moderate,1,2,50,Weather
+ACC00713,2024-10-01 01:43:06.596817,"Lake Anthonystad, NM",Wet,Fog,Morning,Moderate,2,2,60,Weather
+ACC00714,2024-09-15 23:06:43.851061,"Port Thomas, OH",Snowy,Clear,Evening,Severe,5,1,60,Drunk Driving
+ACC00715,2024-06-18 17:46:47.879586,"Port Patricia, WA",Icy,Rain,Night,Minor,4,2,50,Weather
+ACC00716,2024-12-11 11:04:38.594445,"West Anthonyton, GA",Icy,Snow,Afternoon,Minor,2,2,30,Weather
+ACC00717,2024-12-19 20:15:41.194230,"Port Jeffrey, IN",Dry,Snow,Evening,Severe,2,2,60,Road Condition
+ACC00718,2024-10-16 12:22:56.969348,"Denisehaven, AK",Icy,Fog,Morning,Minor,1,1,30,Drunk Driving
+ACC00719,2024-12-23 19:00:25.442213,"South Rhondaburgh, PA",Dry,Snow,Afternoon,Severe,3,3,70,Weather
+ACC00720,2024-11-30 12:03:26.327985,"West Charlene, ME",Icy,Clear,Evening,Severe,4,4,60,Speeding
+ACC00721,2024-10-29 07:34:50.419631,"Rodneyfurt, PR",Wet,Clear,Afternoon,Minor,2,2,50,Drunk Driving
+ACC00722,2024-06-18 08:34:11.142200,"Jefferyport, TX",Icy,Rain,Night,Minor,5,2,30,Weather
+ACC00723,2024-08-20 03:39:19.709139,"Silvatown, NY",Icy,Clear,Night,Minor,2,2,50,Road Condition
+ACC00724,2025-02-11 00:37:36.091144,"Annaport, ME",Wet,Fog,Afternoon,Minor,4,0,30,Drunk Driving
+ACC00725,2024-10-18 23:16:11.643177,"Brownview, SC",Icy,Fog,Night,Moderate,4,4,40,Distracted Driving
+ACC00726,2024-06-09 17:56:31.690624,"Joseport, ID",Dry,Rain,Evening,Minor,1,0,30,Speeding
+ACC00727,2024-04-06 18:06:46.223714,"North Linda, AS",Icy,Rain,Afternoon,Minor,2,0,30,Drunk Driving
+ACC00728,2024-12-03 20:23:17.507342,"Guerreroberg, VA",Icy,Fog,Evening,Minor,5,1,60,Distracted Driving
+ACC00729,2024-02-21 07:00:12.270554,"Brightview, PW",Wet,Rain,Evening,Severe,4,5,40,Distracted Driving
+ACC00730,2024-07-13 20:54:53.854328,"Doyleshire, VT",Dry,Snow,Morning,Moderate,2,2,30,Speeding
+ACC00731,2025-02-09 07:38:27.845427,"West Jessica, IN",Snowy,Fog,Night,Minor,3,1,50,Road Condition
+ACC00732,2024-10-19 15:58:06.438721,"Knoxstad, NY",Snowy,Rain,Night,Minor,2,1,50,Drunk Driving
+ACC00733,2024-05-31 15:18:15.953138,"Port Diane, OH",Snowy,Snow,Evening,Minor,3,4,60,Distracted Driving
+ACC00734,2024-04-18 03:39:43.444854,"South Davidview, VA",Dry,Clear,Morning,Minor,5,1,70,Road Condition
+ACC00735,2024-12-03 05:37:01.075747,"Lake Rachel, SD",Snowy,Snow,Night,Minor,3,2,70,Drunk Driving
+ACC00736,2024-03-15 14:38:57.908314,"Jeffreyport, MT",Icy,Fog,Morning,Minor,4,4,40,Drunk Driving
+ACC00737,2024-11-25 20:04:48.858462,"Nathanshire, LA",Snowy,Clear,Night,Fatal,1,0,30,Distracted Driving
+ACC00738,2024-07-30 09:04:58.710915,"South Brianshire, OR",Snowy,Rain,Night,Minor,5,3,30,Distracted Driving
+ACC00739,2025-01-21 21:23:03.856631,"South Pamelahaven, DE",Dry,Clear,Morning,Minor,1,2,30,Weather
+ACC00740,2024-12-24 20:08:44.625605,"Morenochester, AR",Dry,Rain,Evening,Minor,1,1,50,Road Condition
+ACC00741,2024-12-26 01:31:23.607287,"East Victoria, MA",Snowy,Snow,Night,Minor,1,2,30,Speeding
+ACC00742,2024-07-10 10:44:46.081309,"Thomasburgh, WI",Wet,Snow,Night,Minor,4,4,70,Distracted Driving
+ACC00743,2024-03-12 12:14:33.127657,"Crystalburgh, MD",Dry,Rain,Night,Moderate,1,1,40,Speeding
+ACC00744,2024-09-30 17:44:03.461823,"South Joshuaburgh, OK",Snowy,Snow,Night,Minor,1,2,60,Distracted Driving
+ACC00745,2024-11-17 05:08:58.437845,"Gloverland, DC",Wet,Clear,Evening,Moderate,5,5,60,Speeding
+ACC00746,2024-09-23 10:15:01.892296,"Powellfort, MS",Wet,Fog,Night,Moderate,2,3,70,Distracted Driving
+ACC00747,2024-02-13 16:47:49.741964,"Lake Nathan, AL",Icy,Clear,Afternoon,Minor,2,1,60,Road Condition
+ACC00748,2025-01-02 18:58:57.228886,"North Erica, SC",Snowy,Clear,Night,Moderate,5,0,30,Distracted Driving
+ACC00749,2024-11-05 22:27:30.802246,"Lake Natalie, ME",Dry,Fog,Morning,Moderate,1,0,30,Drunk Driving
+ACC00750,2024-03-30 02:02:42.231385,"Gordonport, GA",Snowy,Rain,Night,Severe,1,2,40,Weather
+ACC00751,2024-03-06 20:09:32.332320,"West Stacymouth, VA",Wet,Clear,Evening,Minor,1,0,40,Weather
+ACC00752,2024-08-20 00:35:31.069103,"Ryanberg, MA",Icy,Rain,Night,Minor,4,3,30,Weather
+ACC00753,2025-02-09 19:46:59.750036,"Howardborough, GA",Snowy,Clear,Evening,Minor,3,1,70,Drunk Driving
+ACC00754,2025-01-23 06:32:54.655661,"Smithbury, VA",Wet,Snow,Morning,Minor,5,4,70,Speeding
+ACC00755,2025-02-05 17:05:10.146239,"Lake Andrew, NY",Dry,Snow,Night,Minor,5,2,70,Drunk Driving
+ACC00756,2024-04-13 17:08:53.887856,"Jenniferton, MS",Icy,Fog,Afternoon,Minor,4,5,40,Weather
+ACC00757,2024-12-28 03:26:38.942574,"Kelseyton, PA",Dry,Snow,Night,Severe,3,4,60,Drunk Driving
+ACC00758,2025-02-09 06:59:48.537934,"Lake Maryton, UT",Dry,Clear,Morning,Fatal,2,0,70,Weather
+ACC00759,2024-03-25 06:51:15.981275,"Jamesside, KS",Wet,Snow,Evening,Minor,4,3,30,Speeding
+ACC00760,2024-08-03 06:18:47.007975,"East Heather, SC",Snowy,Clear,Night,Minor,3,3,50,Speeding
+ACC00761,2024-02-15 09:25:48.166831,"Stanleyhaven, KY",Wet,Fog,Evening,Moderate,5,6,50,Speeding
+ACC00762,2024-09-26 11:09:52.023885,"South Maria, CT",Snowy,Clear,Evening,Moderate,5,2,60,Weather
+ACC00763,2024-08-16 20:17:53.048109,"West Danielville, NM",Dry,Snow,Evening,Minor,5,5,50,Distracted Driving
+ACC00764,2024-04-24 13:09:27.260746,"Port Jose, NC",Dry,Rain,Night,Minor,2,2,30,Drunk Driving
+ACC00765,2025-02-01 10:00:09.173620,"Jadeport, GA",Icy,Clear,Night,Moderate,2,0,40,Road Condition
+ACC00766,2024-02-26 09:17:22.512528,"Lozanofort, MA",Wet,Snow,Morning,Severe,2,0,70,Speeding
+ACC00767,2024-05-07 15:29:07.768874,"Lake Christopherville, MP",Wet,Fog,Morning,Minor,1,1,50,Speeding
+ACC00768,2024-09-08 16:45:14.234842,"Hernandezland, WI",Wet,Clear,Evening,Severe,3,4,50,Drunk Driving
+ACC00769,2024-08-16 21:21:17.543952,"West Dawnmouth, LA",Icy,Fog,Afternoon,Fatal,5,5,70,Drunk Driving
+ACC00770,2024-05-18 11:07:30.614580,"North Lisaton, PR",Dry,Clear,Night,Moderate,1,0,40,Road Condition
+ACC00771,2024-05-28 02:54:38.702355,"Ronaldville, CT",Icy,Fog,Afternoon,Minor,3,3,60,Weather
+ACC00772,2024-12-18 21:41:09.158752,"North Melissaburgh, MA",Icy,Clear,Night,Minor,2,0,70,Distracted Driving
+ACC00773,2024-06-21 13:52:04.908296,"Friedmanview, FM",Snowy,Rain,Night,Fatal,5,2,70,Distracted Driving
+ACC00774,2024-11-05 17:45:58.621107,"Lisaburgh, DE",Wet,Fog,Night,Severe,2,2,40,Weather
+ACC00775,2024-07-07 08:59:17.212894,"Nelsonfurt, UT",Icy,Rain,Morning,Fatal,2,1,50,Road Condition
+ACC00776,2024-12-18 16:39:05.410804,"Banksburgh, DE",Wet,Fog,Afternoon,Severe,1,2,50,Road Condition
+ACC00777,2024-03-31 09:25:59.828241,"Port Erikchester, PW",Icy,Rain,Morning,Minor,3,4,70,Distracted Driving
+ACC00778,2024-09-14 18:14:38.353386,"Whitefurt, WI",Snowy,Fog,Morning,Minor,5,6,70,Road Condition
+ACC00779,2024-06-21 23:15:38.285085,"Port Gabrielleberg, NJ",Wet,Fog,Morning,Moderate,1,0,60,Drunk Driving
+ACC00780,2025-01-13 03:51:23.247713,"South Scottland, KS",Snowy,Clear,Evening,Minor,4,5,60,Weather
+ACC00781,2024-10-08 05:12:34.999915,"Lake Mirandahaven, WI",Dry,Snow,Evening,Minor,5,1,60,Speeding
+ACC00782,2024-11-09 14:17:47.328780,"Lake Morgan, NC",Wet,Fog,Afternoon,Minor,3,0,50,Speeding
+ACC00783,2024-08-21 01:15:55.801327,"South Dorothybury, NJ",Dry,Rain,Morning,Moderate,3,2,30,Drunk Driving
+ACC00784,2024-06-17 06:37:32.297832,"Hernandezside, MH",Icy,Rain,Morning,Minor,4,4,30,Distracted Driving
+ACC00785,2025-02-06 18:36:46.525609,"North Dawnburgh, NY",Snowy,Rain,Evening,Minor,1,2,50,Weather
+ACC00786,2024-12-18 00:38:42.707974,"Boothland, WV",Wet,Fog,Night,Moderate,1,1,40,Road Condition
+ACC00787,2024-08-09 13:32:11.914772,"West Tara, AR",Dry,Rain,Afternoon,Moderate,4,1,40,Weather
+ACC00788,2024-08-15 03:29:22.106484,"Powellbury, CO",Snowy,Fog,Evening,Minor,1,2,30,Weather
+ACC00789,2024-07-28 16:10:53.925497,"Millerfort, NV",Snowy,Snow,Morning,Severe,1,0,40,Speeding
+ACC00790,2024-06-06 10:23:17.180593,"Mcgeetown, CT",Snowy,Clear,Morning,Minor,3,2,30,Speeding
+ACC00791,2024-07-08 08:19:25.810115,"New Andrealand, WY",Wet,Rain,Evening,Fatal,2,3,70,Drunk Driving
+ACC00792,2024-09-19 16:10:10.273017,"Pamelaside, IL",Wet,Rain,Afternoon,Moderate,4,5,40,Speeding
+ACC00793,2024-10-08 01:53:59.639893,"Clementsstad, GU",Icy,Rain,Morning,Fatal,3,4,40,Distracted Driving
+ACC00794,2024-03-02 19:37:55.577627,"Port Shawn, OH",Snowy,Snow,Morning,Minor,2,1,40,Road Condition
+ACC00795,2024-11-18 06:51:23.732596,"Moranstad, VT",Dry,Snow,Evening,Moderate,5,3,30,Distracted Driving
+ACC00796,2024-07-26 06:39:34.250936,"Port Donnatown, MA",Dry,Snow,Morning,Moderate,5,3,60,Distracted Driving
+ACC00797,2024-06-20 16:55:53.990508,"Amystad, UT",Dry,Snow,Afternoon,Minor,5,4,70,Road Condition
+ACC00798,2024-03-21 19:51:49.519361,"South Donald, VT",Dry,Rain,Morning,Moderate,1,1,50,Speeding
+ACC00799,2024-11-09 04:32:27.144729,"Rodriguezborough, ID",Wet,Snow,Morning,Minor,5,5,50,Road Condition
+ACC00800,2024-03-27 02:17:50.566162,"Lewisborough, VT",Wet,Fog,Morning,Severe,5,2,30,Speeding
+ACC00801,2024-06-14 10:06:46.778642,"Williamsshire, DE",Dry,Rain,Evening,Minor,2,2,50,Weather
+ACC00802,2024-11-20 00:18:28.398144,"Ellisshire, NY",Snowy,Fog,Evening,Moderate,2,3,70,Distracted Driving
+ACC00803,2024-04-01 04:03:20.163480,"Smithton, OH",Dry,Rain,Night,Minor,3,4,30,Drunk Driving
+ACC00804,2025-01-18 14:33:23.496818,"Glassburgh, UT",Dry,Rain,Night,Severe,5,0,50,Speeding
+ACC00805,2024-09-10 07:20:15.011309,"North Paul, PA",Dry,Rain,Night,Minor,3,3,50,Road Condition
+ACC00806,2024-09-20 09:19:42.517191,"Williamfurt, MT",Wet,Rain,Night,Moderate,1,2,70,Distracted Driving
+ACC00807,2025-02-03 17:56:13.901590,"West Raymond, MA",Snowy,Snow,Morning,Minor,3,0,30,Speeding
+ACC00808,2025-01-31 10:57:55.786481,"Ballardberg, MT",Dry,Clear,Morning,Minor,5,2,70,Speeding
+ACC00809,2024-09-19 01:27:11.991983,"Meganside, VI",Snowy,Snow,Night,Minor,5,0,30,Distracted Driving
+ACC00810,2024-06-05 15:32:07.088257,"East Jason, VT",Dry,Clear,Afternoon,Minor,5,1,70,Drunk Driving
+ACC00811,2024-05-28 03:01:07.425852,"Samanthaberg, VT",Wet,Fog,Morning,Moderate,4,2,40,Road Condition
+ACC00812,2024-10-06 10:22:11.517218,"New Amy, SC",Dry,Clear,Morning,Severe,4,4,40,Speeding
+ACC00813,2024-06-08 17:47:11.649500,"Port Michaelfort, OR",Dry,Rain,Evening,Minor,3,4,60,Road Condition
+ACC00814,2024-09-07 09:56:45.847562,"Craigside, LA",Snowy,Rain,Evening,Minor,2,0,40,Distracted Driving
+ACC00815,2024-12-28 11:37:24.449466,"Stokeshaven, CT",Snowy,Rain,Night,Minor,3,1,40,Drunk Driving
+ACC00816,2024-02-21 05:23:53.289722,"North Ellen, ID",Wet,Snow,Afternoon,Severe,2,3,60,Weather
+ACC00817,2024-05-19 12:08:09.766590,"West Frances, FL",Icy,Snow,Afternoon,Moderate,3,4,60,Drunk Driving
+ACC00818,2024-12-14 13:41:17.322278,"Jamesside, AZ",Dry,Snow,Morning,Minor,2,3,60,Distracted Driving
+ACC00819,2024-06-21 23:59:33.983151,"Garciaside, VI",Snowy,Rain,Evening,Moderate,2,1,50,Drunk Driving
+ACC00820,2024-05-03 22:05:35.967525,"Youngport, UT",Wet,Clear,Night,Severe,5,4,70,Road Condition
+ACC00821,2024-10-11 16:39:35.117744,"Hughesmouth, OH",Icy,Clear,Afternoon,Moderate,4,1,50,Drunk Driving
+ACC00822,2024-03-02 15:29:08.578877,"Jamesmouth, MP",Snowy,Fog,Morning,Minor,5,5,70,Road Condition
+ACC00823,2024-05-04 08:58:21.396264,"Kariside, WA",Wet,Rain,Afternoon,Severe,3,0,70,Speeding
+ACC00824,2024-09-19 09:00:50.548136,"West Shane, TX",Snowy,Clear,Afternoon,Severe,1,0,30,Road Condition
+ACC00825,2024-03-10 04:38:45.385219,"Lake Willie, MS",Wet,Rain,Morning,Minor,2,3,40,Drunk Driving
+ACC00826,2024-02-26 20:03:30.762456,"Angelaberg, GA",Wet,Fog,Afternoon,Minor,5,2,60,Speeding
+ACC00827,2024-09-12 06:57:00.850013,"Adammouth, VT",Snowy,Rain,Afternoon,Severe,3,1,40,Drunk Driving
+ACC00828,2025-01-19 09:43:11.874974,"East Sarahton, WI",Wet,Rain,Evening,Moderate,1,1,30,Drunk Driving
+ACC00829,2025-01-17 12:54:15.383018,"Tracyshire, OH",Dry,Rain,Night,Minor,4,3,50,Weather
+ACC00830,2024-06-21 18:45:39.371088,"Aliciaburgh, NC",Snowy,Fog,Night,Minor,5,4,30,Drunk Driving
+ACC00831,2024-03-07 21:29:13.836941,"South Amy, MO",Dry,Snow,Night,Severe,4,3,60,Drunk Driving
+ACC00832,2024-03-16 13:50:28.572029,"East Elizabeth, MA",Wet,Clear,Evening,Minor,4,1,50,Distracted Driving
+ACC00833,2024-06-22 18:32:08.702256,"Port Christine, NJ",Snowy,Snow,Night,Moderate,4,2,30,Drunk Driving
+ACC00834,2025-02-10 00:05:50.963139,"North Elizabethmouth, IA",Wet,Clear,Morning,Minor,1,1,50,Weather
+ACC00835,2025-01-07 08:28:02.953431,"North Felicia, MD",Snowy,Snow,Morning,Fatal,1,1,50,Weather
+ACC00836,2024-06-30 06:53:21.696235,"South Jonathanport, AK",Snowy,Rain,Afternoon,Minor,1,1,60,Speeding
+ACC00837,2025-01-09 20:25:14.243935,"Williehaven, NV",Wet,Rain,Night,Minor,2,3,60,Drunk Driving
+ACC00838,2024-08-07 19:04:54.690682,"Rachelborough, MD",Dry,Fog,Afternoon,Minor,3,1,60,Drunk Driving
+ACC00839,2024-08-17 16:32:46.383721,"East Teresaside, ND",Dry,Snow,Morning,Moderate,2,1,40,Distracted Driving
+ACC00840,2024-02-14 16:07:36.373970,"East Ellenborough, VI",Icy,Rain,Morning,Fatal,5,3,40,Weather
+ACC00841,2024-10-19 07:57:57.413556,"East Amandachester, SD",Snowy,Fog,Afternoon,Minor,4,2,60,Road Condition
+ACC00842,2024-12-06 07:20:28.340702,"Lake Ginatown, NH",Icy,Fog,Night,Minor,3,3,50,Weather
+ACC00843,2024-10-30 19:45:50.179783,"North Charlesburgh, WY",Icy,Rain,Afternoon,Minor,5,3,70,Weather
+ACC00844,2024-05-14 00:02:01.283573,"New Lorraineview, MT",Snowy,Clear,Afternoon,Minor,5,2,70,Weather
+ACC00845,2024-07-02 17:16:09.432611,"Hamiltontown, MS",Dry,Rain,Evening,Moderate,1,1,30,Distracted Driving
+ACC00846,2024-10-14 21:50:37.345200,"Lake Jenniferland, WV",Dry,Rain,Night,Minor,3,2,30,Weather
+ACC00847,2024-11-10 10:41:46.755495,"Lake Melaniestad, NY",Icy,Snow,Afternoon,Severe,2,2,30,Road Condition
+ACC00848,2024-03-21 18:13:38.275008,"Catherineport, WV",Dry,Rain,Morning,Fatal,2,1,40,Speeding
+ACC00849,2025-01-15 11:01:06.445716,"Fostertown, NJ",Wet,Fog,Afternoon,Moderate,2,0,70,Road Condition
+ACC00850,2024-04-09 02:09:45.604352,"East Julie, WY",Dry,Rain,Evening,Moderate,4,0,30,Drunk Driving
+ACC00851,2024-11-29 06:25:38.391248,"Susanberg, ME",Wet,Clear,Night,Minor,3,4,70,Weather
+ACC00852,2024-10-16 08:49:18.604695,"Susantown, OH",Wet,Rain,Evening,Minor,1,2,50,Weather
+ACC00853,2024-12-27 11:51:55.996523,"North Bobby, OK",Snowy,Snow,Evening,Moderate,5,4,70,Speeding
+ACC00854,2024-09-16 22:00:07.766474,"West Jasonstad, IL",Snowy,Fog,Morning,Minor,3,3,40,Drunk Driving
+ACC00855,2024-07-11 17:05:55.990313,"East Jack, RI",Icy,Snow,Afternoon,Moderate,2,2,60,Weather
+ACC00856,2024-12-12 21:04:20.839687,"North Howard, AS",Icy,Fog,Night,Moderate,4,5,40,Distracted Driving
+ACC00857,2024-09-06 04:37:11.216370,"Port Karenside, NH",Snowy,Rain,Evening,Minor,3,2,50,Road Condition
+ACC00858,2024-10-04 10:55:50.439778,"West Emilyview, CT",Snowy,Fog,Afternoon,Moderate,3,0,70,Road Condition
+ACC00859,2024-04-24 02:23:01.846634,"Lynnstad, DC",Wet,Rain,Evening,Minor,4,3,40,Distracted Driving
+ACC00860,2024-10-14 04:17:03.947292,"North Justin, CA",Wet,Snow,Evening,Minor,5,4,30,Road Condition
+ACC00861,2025-01-05 18:05:31.739922,"Toddmouth, RI",Icy,Fog,Evening,Minor,5,2,40,Speeding
+ACC00862,2024-10-09 20:12:20.883526,"New Ashley, AS",Dry,Clear,Night,Severe,4,5,60,Road Condition
+ACC00863,2024-06-06 12:46:09.002272,"Jacksonmouth, IA",Wet,Fog,Morning,Severe,3,0,40,Speeding
+ACC00864,2024-11-24 22:46:35.742151,"Hillstad, DC",Icy,Fog,Night,Severe,5,2,70,Drunk Driving
+ACC00865,2024-10-17 04:54:19.326283,"Nataliemouth, NV",Wet,Fog,Afternoon,Minor,3,0,30,Weather
+ACC00866,2024-06-22 00:30:41.030116,"Tonyville, HI",Icy,Clear,Morning,Moderate,2,3,60,Drunk Driving
+ACC00867,2024-10-04 18:37:08.544389,"Port Juanberg, MH",Dry,Clear,Morning,Minor,2,0,60,Distracted Driving
+ACC00868,2024-08-26 17:15:54.200909,"Jessicaland, VA",Wet,Snow,Afternoon,Moderate,3,0,30,Drunk Driving
+ACC00869,2024-03-10 12:48:23.530940,"Port Williamtown, GU",Dry,Clear,Evening,Minor,1,1,60,Road Condition
+ACC00870,2024-09-11 12:34:51.589427,"Hammondborough, PW",Wet,Fog,Afternoon,Minor,4,2,70,Speeding
+ACC00871,2024-02-25 09:11:20.475428,"Amyside, NJ",Icy,Fog,Evening,Minor,4,5,70,Road Condition
+ACC00872,2024-10-07 19:52:13.519587,"West Philip, MH",Snowy,Rain,Evening,Minor,1,0,30,Drunk Driving
+ACC00873,2024-11-20 00:18:17.981999,"Dennishaven, NY",Wet,Clear,Evening,Severe,5,4,70,Weather
+ACC00874,2024-03-16 01:38:36.437158,"Waynebury, PR",Snowy,Rain,Afternoon,Minor,3,1,50,Distracted Driving
+ACC00875,2025-01-29 02:03:48.971595,"Port Willie, NV",Snowy,Fog,Morning,Moderate,4,2,70,Distracted Driving
+ACC00876,2024-04-10 03:34:26.807408,"Lake Jessica, MI",Snowy,Fog,Morning,Moderate,5,3,70,Speeding
+ACC00877,2024-02-26 18:10:44.779881,"Hallview, MN",Icy,Fog,Afternoon,Moderate,5,3,30,Road Condition
+ACC00878,2024-05-07 11:13:12.352012,"New Rebecca, MN",Icy,Snow,Evening,Minor,2,2,50,Weather
+ACC00879,2024-07-02 17:47:58.814048,"Keithton, SD",Snowy,Fog,Night,Minor,4,5,30,Speeding
+ACC00880,2024-06-09 08:35:53.465516,"Maryview, OR",Snowy,Snow,Afternoon,Minor,1,1,60,Distracted Driving
+ACC00881,2024-08-28 19:30:38.200906,"South Desiree, MN",Wet,Snow,Afternoon,Minor,1,1,50,Distracted Driving
+ACC00882,2024-09-13 15:19:12.525821,"New Johnbury, NC",Dry,Fog,Night,Minor,4,3,50,Speeding
+ACC00883,2024-07-09 05:23:02.243557,"Tommyfort, FM",Icy,Fog,Morning,Minor,4,0,40,Drunk Driving
+ACC00884,2024-09-19 16:14:13.393177,"South Gabriel, CA",Icy,Rain,Afternoon,Severe,1,2,70,Road Condition
+ACC00885,2024-08-17 22:12:50.117677,"Jasonburgh, GA",Wet,Fog,Evening,Moderate,5,4,50,Drunk Driving
+ACC00886,2024-06-23 07:01:40.823738,"Lake Jerrymouth, VA",Dry,Snow,Morning,Severe,2,3,50,Road Condition
+ACC00887,2024-03-24 09:22:06.357610,"Mendozashire, GA",Dry,Snow,Evening,Minor,3,4,60,Distracted Driving
+ACC00888,2024-10-05 09:35:15.775336,"Johnsonton, DC",Snowy,Rain,Afternoon,Severe,1,0,40,Speeding
+ACC00889,2024-09-08 10:54:49.438304,"East Crystal, AZ",Wet,Clear,Night,Minor,2,1,40,Distracted Driving
+ACC00890,2025-01-02 08:23:13.947964,"North Gabriel, HI",Dry,Fog,Night,Minor,2,1,30,Weather
+ACC00891,2024-08-18 16:37:00.944439,"Greeneshire, SC",Dry,Rain,Evening,Moderate,3,4,40,Weather
+ACC00892,2024-02-18 19:05:14.548915,"Staceyborough, NV",Snowy,Snow,Afternoon,Moderate,1,0,60,Distracted Driving
+ACC00893,2024-09-20 12:31:44.638011,"Dillonburgh, IN",Icy,Clear,Afternoon,Minor,4,5,30,Speeding
+ACC00894,2024-12-11 06:38:11.110959,"Port Brandi, WI",Wet,Fog,Afternoon,Moderate,1,2,60,Distracted Driving
+ACC00895,2024-04-18 10:13:17.163149,"Garymouth, NH",Snowy,Fog,Evening,Severe,3,0,70,Distracted Driving
+ACC00896,2024-09-16 20:56:12.835521,"East Nicholasberg, CT",Snowy,Rain,Morning,Minor,1,0,30,Drunk Driving
+ACC00897,2024-02-18 01:03:09.456334,"Serranoville, HI",Wet,Fog,Evening,Minor,4,3,60,Weather
+ACC00898,2024-08-03 19:13:25.257026,"Port Amandaville, CO",Icy,Clear,Evening,Moderate,1,1,50,Road Condition
+ACC00899,2024-08-06 03:04:36.877738,"New Amber, AL",Dry,Snow,Morning,Minor,2,3,60,Drunk Driving
+ACC00900,2025-01-04 14:28:59.445206,"Boydstad, VI",Wet,Clear,Night,Minor,1,1,60,Road Condition
+ACC00901,2024-02-27 20:38:17.439543,"Perezfort, WY",Snowy,Rain,Night,Moderate,1,0,50,Distracted Driving
+ACC00902,2024-11-18 17:51:36.021029,"Briannashire, CT",Snowy,Rain,Afternoon,Severe,1,0,40,Weather
+ACC00903,2024-07-16 09:36:23.567333,"Thomasbury, PW",Wet,Clear,Afternoon,Minor,1,0,60,Road Condition
+ACC00904,2024-12-21 18:07:23.535033,"Carmenside, MT",Dry,Snow,Afternoon,Moderate,4,1,50,Drunk Driving
+ACC00905,2024-05-16 03:43:30.577277,"Lake Juliatown, OK",Dry,Snow,Afternoon,Moderate,2,1,70,Speeding
+ACC00906,2024-08-20 20:20:03.703492,"South Diamondmouth, MT",Wet,Fog,Evening,Moderate,2,1,70,Drunk Driving
+ACC00907,2024-06-23 07:26:19.116692,"South Denise, KS",Icy,Clear,Evening,Moderate,2,1,60,Drunk Driving
+ACC00908,2024-05-17 10:23:13.466087,"Cunninghamview, TX",Wet,Rain,Night,Minor,2,1,50,Weather
+ACC00909,2024-07-06 03:51:22.626709,"South Andrea, OH",Wet,Snow,Afternoon,Minor,4,0,70,Distracted Driving
+ACC00910,2024-08-06 05:03:54.636378,"Angiefort, KS",Snowy,Rain,Evening,Moderate,3,4,60,Speeding
+ACC00911,2025-02-07 00:53:41.321654,"Kimfurt, WA",Icy,Fog,Morning,Minor,3,2,70,Weather
+ACC00912,2024-04-02 10:08:38.786711,"Lake Jerryburgh, CT",Icy,Clear,Morning,Minor,1,1,60,Drunk Driving
+ACC00913,2024-04-30 07:45:25.955568,"Hartmanside, RI",Wet,Rain,Afternoon,Severe,1,2,40,Drunk Driving
+ACC00914,2024-10-23 14:06:23.623962,"East Paultown, AS",Dry,Fog,Afternoon,Severe,1,1,30,Distracted Driving
+ACC00915,2024-03-16 06:19:45.405435,"South Sara, NE",Wet,Fog,Morning,Moderate,4,1,50,Speeding
+ACC00916,2024-03-15 04:29:19.463540,"Jeffreyland, PA",Snowy,Clear,Afternoon,Minor,4,5,30,Weather
+ACC00917,2024-02-25 18:49:22.242853,"Ariasfurt, RI",Icy,Fog,Night,Minor,4,5,30,Drunk Driving
+ACC00918,2024-10-08 15:44:35.498271,"Jenniferton, WI",Dry,Snow,Evening,Minor,3,2,60,Speeding
+ACC00919,2024-12-07 13:47:48.631965,"Gonzalesborough, PR",Wet,Snow,Morning,Severe,4,3,30,Road Condition
+ACC00920,2024-10-08 21:57:28.998525,"Jameshaven, NC",Snowy,Rain,Evening,Severe,2,1,50,Distracted Driving
+ACC00921,2024-10-24 02:18:40.820903,"Lake Barry, IA",Icy,Clear,Evening,Minor,2,2,50,Distracted Driving
+ACC00922,2024-10-08 05:36:32.425355,"North Wendy, WI",Dry,Snow,Morning,Fatal,3,0,70,Weather
+ACC00923,2024-07-06 21:12:30.503583,"Sullivanborough, NC",Wet,Clear,Night,Minor,4,1,50,Road Condition
+ACC00924,2024-02-17 14:34:04.293704,"North Andreaside, PW",Wet,Fog,Night,Minor,3,1,60,Weather
+ACC00925,2024-09-11 21:42:51.332873,"Sylviaview, IN",Dry,Rain,Night,Moderate,4,3,30,Distracted Driving
+ACC00926,2024-09-20 11:06:16.986072,"South Sarah, OK",Icy,Rain,Afternoon,Minor,5,0,60,Weather
+ACC00927,2024-02-13 16:38:31.629089,"South William, OH",Icy,Fog,Evening,Minor,5,2,50,Speeding
+ACC00928,2024-03-09 10:23:11.962015,"Matthewville, AS",Snowy,Rain,Night,Severe,2,2,60,Drunk Driving
+ACC00929,2024-08-17 11:12:59.477482,"Nancyshire, KS",Dry,Fog,Afternoon,Severe,4,4,50,Road Condition
+ACC00930,2024-10-22 12:59:16.305798,"Hartbury, WV",Snowy,Snow,Afternoon,Minor,5,6,30,Drunk Driving
+ACC00931,2024-06-15 01:15:12.041805,"Maldonadoshire, VI",Wet,Rain,Evening,Moderate,5,6,40,Distracted Driving
+ACC00932,2024-02-21 23:37:05.741436,"West Carlosbury, TX",Wet,Snow,Morning,Minor,3,3,70,Weather
+ACC00933,2024-10-25 02:12:36.114835,"Robertstad, NC",Snowy,Fog,Evening,Minor,2,1,70,Weather
+ACC00934,2024-08-25 15:15:52.829631,"Johnland, MO",Wet,Snow,Night,Minor,2,2,60,Weather
+ACC00935,2024-10-15 01:20:34.303634,"Charlesburgh, NJ",Wet,Snow,Morning,Minor,5,0,50,Distracted Driving
+ACC00936,2024-06-05 15:12:07.442149,"New Joseph, WA",Dry,Rain,Morning,Moderate,3,2,70,Drunk Driving
+ACC00937,2024-10-18 11:49:23.994755,"South Jillian, IA",Dry,Rain,Afternoon,Moderate,4,1,70,Distracted Driving
+ACC00938,2024-11-06 14:27:47.858595,"Jamieborough, MP",Dry,Fog,Night,Moderate,3,2,30,Weather
+ACC00939,2024-05-13 04:38:19.889470,"Ericville, DE",Icy,Rain,Evening,Minor,5,4,30,Road Condition
+ACC00940,2025-01-13 02:01:00.874006,"Austinside, AZ",Icy,Fog,Afternoon,Severe,1,2,70,Speeding
+ACC00941,2024-12-17 17:19:33.495474,"Christinefort, MH",Snowy,Snow,Night,Severe,4,0,70,Road Condition
+ACC00942,2025-02-05 21:18:34.334101,"Travishaven, KY",Wet,Snow,Night,Minor,5,6,60,Drunk Driving
+ACC00943,2024-07-06 07:35:05.274143,"North Alicia, NE",Icy,Snow,Afternoon,Moderate,2,0,40,Road Condition
+ACC00944,2024-08-04 16:42:27.381146,"New Michaelburgh, NH",Snowy,Rain,Afternoon,Minor,4,4,50,Distracted Driving
+ACC00945,2025-02-02 15:41:46.762196,"Stewarttown, AL",Dry,Fog,Morning,Severe,4,3,60,Distracted Driving
+ACC00946,2024-10-15 04:53:39.315250,"Carpentermouth, MN",Icy,Snow,Night,Minor,4,5,40,Road Condition
+ACC00947,2024-09-22 19:20:03.613471,"Jacobview, IA",Wet,Snow,Afternoon,Minor,4,3,40,Distracted Driving
+ACC00948,2024-05-20 09:26:11.375347,"Michaelfort, NE",Dry,Snow,Morning,Moderate,2,0,40,Speeding
+ACC00949,2024-04-28 21:20:44.957391,"Michaelfurt, KY",Snowy,Clear,Evening,Severe,3,0,40,Weather
+ACC00950,2024-07-25 14:51:02.791613,"New Gina, GU",Wet,Fog,Morning,Moderate,4,1,40,Speeding
+ACC00951,2024-03-19 11:18:10.048268,"Lindaside, NE",Icy,Clear,Evening,Moderate,5,1,50,Drunk Driving
+ACC00952,2024-12-20 18:03:55.803065,"East Lauren, WA",Wet,Snow,Afternoon,Minor,4,1,50,Weather
+ACC00953,2024-04-06 14:46:15.562440,"East Robertberg, MH",Snowy,Fog,Morning,Minor,2,3,30,Weather
+ACC00954,2024-12-18 05:25:00.321235,"Kristenport, KS",Wet,Fog,Night,Moderate,2,2,70,Distracted Driving
+ACC00955,2024-09-04 07:26:21.727476,"South Coreyburgh, AR",Icy,Snow,Morning,Minor,3,1,70,Speeding
+ACC00956,2024-04-30 16:36:12.490259,"Thomasville, NV",Icy,Rain,Evening,Minor,5,3,40,Drunk Driving
+ACC00957,2024-11-09 22:47:38.685519,"Michaelside, OH",Icy,Clear,Morning,Minor,3,4,30,Road Condition
+ACC00958,2025-01-17 08:11:40.270851,"Mauricechester, DE",Snowy,Clear,Morning,Moderate,2,3,30,Distracted Driving
+ACC00959,2024-06-19 05:26:36.899671,"New Barbara, SD",Icy,Clear,Afternoon,Minor,5,6,50,Drunk Driving
+ACC00960,2024-08-26 15:41:20.846563,"Michaelhaven, NM",Wet,Snow,Evening,Moderate,1,2,70,Speeding
+ACC00961,2024-11-20 23:05:30.460900,"Prestonfurt, RI",Snowy,Fog,Evening,Minor,2,3,40,Drunk Driving
+ACC00962,2024-05-26 15:27:55.863147,"Port Gary, AS",Dry,Snow,Afternoon,Minor,4,5,30,Distracted Driving
+ACC00963,2025-01-16 03:27:40.168006,"Welchshire, MO",Dry,Clear,Evening,Minor,2,3,70,Weather
+ACC00964,2024-12-18 01:07:44.550269,"North Fernandobury, MD",Icy,Fog,Night,Moderate,2,2,60,Weather
+ACC00965,2024-06-06 17:32:50.017331,"Jenniferfurt, KY",Wet,Fog,Night,Minor,5,4,70,Speeding
+ACC00966,2025-01-01 05:09:42.989964,"Juliehaven, NV",Snowy,Clear,Afternoon,Minor,5,0,40,Weather
+ACC00967,2024-07-12 04:47:50.500878,"Port Andrew, VA",Dry,Clear,Afternoon,Minor,4,4,40,Distracted Driving
+ACC00968,2024-05-07 16:33:15.362187,"Shelbyland, IL",Snowy,Snow,Evening,Minor,1,1,50,Speeding
+ACC00969,2024-04-12 22:57:56.480894,"North Calebfort, OH",Wet,Clear,Afternoon,Minor,1,2,40,Weather
+ACC00970,2024-03-02 15:41:22.143963,"Warrenland, CT",Snowy,Clear,Afternoon,Minor,1,0,50,Speeding
+ACC00971,2024-05-17 20:27:43.816012,"North Diana, FM",Wet,Snow,Night,Minor,4,1,60,Weather
+ACC00972,2024-07-03 09:10:00.866973,"East Joan, NV",Snowy,Rain,Afternoon,Minor,3,4,30,Speeding
+ACC00973,2024-09-27 19:26:52.573848,"New Mary, AK",Dry,Rain,Night,Minor,5,6,30,Road Condition
+ACC00974,2024-02-24 20:01:43.451174,"Michellemouth, VI",Icy,Fog,Evening,Minor,1,0,70,Weather
+ACC00975,2024-08-03 21:43:36.446010,"Amyberg, UT",Wet,Clear,Morning,Minor,3,1,40,Weather
+ACC00976,2024-08-26 23:08:02.425901,"Welchshire, NE",Snowy,Rain,Evening,Minor,3,1,70,Road Condition
+ACC00977,2024-08-21 04:23:29.852627,"Reginafort, ND",Wet,Snow,Night,Severe,5,1,70,Speeding
+ACC00978,2024-05-04 22:49:19.365819,"South Kylechester, KS",Dry,Fog,Afternoon,Minor,4,5,40,Speeding
+ACC00979,2024-04-08 20:51:04.270966,"North Alexandraberg, MI",Dry,Snow,Night,Minor,1,0,40,Drunk Driving
+ACC00980,2024-05-26 17:33:27.570530,"Lake Sandrafort, ME",Icy,Snow,Night,Severe,5,3,30,Weather
+ACC00981,2024-02-15 07:55:22.033824,"Yatesbury, WY",Dry,Rain,Evening,Minor,3,3,40,Weather
+ACC00982,2024-02-14 15:08:23.047279,"Jacobside, NE",Wet,Fog,Evening,Minor,1,0,40,Distracted Driving
+ACC00983,2024-07-05 04:10:14.162025,"Lake Jillian, MS",Snowy,Snow,Night,Minor,4,3,50,Weather
+ACC00984,2024-12-10 13:39:34.578782,"West Christian, SC",Dry,Clear,Afternoon,Severe,1,2,50,Weather
+ACC00985,2024-05-09 11:48:35.949697,"Justinside, AS",Dry,Snow,Evening,Minor,5,6,50,Weather
+ACC00986,2024-05-20 04:17:52.669454,"Port Casey, DC",Dry,Rain,Night,Moderate,5,3,60,Weather
+ACC00987,2024-05-27 18:23:29.406576,"Williamsonview, UT",Wet,Snow,Night,Fatal,5,0,50,Speeding
+ACC00988,2024-09-26 10:46:43.637158,"West Andrew, AR",Icy,Snow,Afternoon,Minor,1,2,70,Speeding
+ACC00989,2025-01-31 04:10:05.674649,"East Teresaport, KY",Icy,Snow,Morning,Minor,4,2,30,Distracted Driving
+ACC00990,2024-03-28 15:55:56.113456,"Acostabury, CO",Snowy,Fog,Evening,Moderate,5,3,40,Weather
+ACC00991,2024-04-07 00:43:32.541517,"Robinsonchester, ME",Snowy,Clear,Afternoon,Minor,2,1,60,Road Condition
+ACC00992,2024-11-24 23:20:54.083540,"Boltonmouth, UT",Wet,Fog,Morning,Moderate,2,0,70,Weather
+ACC00993,2024-11-27 01:18:27.771945,"Christopherberg, AR",Icy,Fog,Evening,Minor,5,3,70,Road Condition
+ACC00994,2024-05-19 07:58:30.061671,"Jonesfort, HI",Icy,Snow,Afternoon,Moderate,2,0,50,Distracted Driving
+ACC00995,2024-04-22 04:34:48.449115,"Lisatown, DE",Snowy,Clear,Afternoon,Severe,1,2,40,Speeding
+ACC00996,2025-02-01 22:57:54.661236,"South Kelsey, NV",Snowy,Snow,Evening,Moderate,3,4,70,Distracted Driving
+ACC00997,2024-05-12 06:25:59.013883,"East Stevenville, NC",Wet,Snow,Afternoon,Minor,5,2,70,Weather
+ACC00998,2024-10-12 05:56:01.960266,"South Paul, ME",Wet,Snow,Evening,Minor,5,0,70,Speeding
+ACC00999,2025-01-18 22:30:24.377413,"Lake Jessica, WA",Wet,Snow,Night,Severe,1,2,50,Drunk Driving
+ACC01000,2025-01-19 09:04:31.607939,"West Timothyport, ID",Wet,Fog,Afternoon,Moderate,4,1,70,Weather
